@@ -3,7 +3,7 @@
                            연락처
                            
                            Email : qqq253222@naver.com  / aagoki11234@gmail.com
-                          <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+<img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 
 
                            반갑습니다  

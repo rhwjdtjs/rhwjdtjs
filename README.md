@@ -19,11 +19,11 @@
 ● 2022년 8월 ~ 2022년 10월 Flight Fighter -Unity Project-1 vs 1 Photon Network Multiplay Acade Flight  
 Game Repository Link  
 https://github.com/rhwjdtjs/Unity_Flight_Fighter  
-<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
+<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">  
 ● 2023년 3월 ~ 2023년 6월  Living Lonely  -Unity Project-Openworld Survival  
 Game Repository Link  
 https://github.com/rhwjdtjs/Unity_Living_Lonely  
-<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">  
+<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">   
 😄My Dev Stroy  
 https://jeongseondevlog.tistory.com/  
 

@@ -17,7 +17,8 @@ Main Language
                            
 My Projects  
 
-2022년 8월 ~ 2022년 10월 Flight Fight -Unity Project  
+● 2022년 8월 ~ 2022년 10월 Flight Fighter -Unity Project-1 vs 1 Multiplay Acade Flight Game Repository Link https://github.com/rhwjdtjs/Unity_Flight_Fighter  
+● 2023년 3월 ~ 2023년 6월  Living Lonely  -Unity Project-Openworld Survival Game Repository Link https://github.com/rhwjdtjs/Unity_Living_Lonely
 
 
 

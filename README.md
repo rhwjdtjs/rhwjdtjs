@@ -21,7 +21,6 @@ Game Repository Link
 https://github.com/rhwjdtjs/Unity_Flight_Fighter  
 <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">  
 ● 2023년 3월 ~ 2023년 6월  Living Lonely  -Unity Project-Openworld Survival  
-● 2023년 7월 ~ -> 기능 수정 기간  
 Game Repository Link  
 https://github.com/rhwjdtjs/Unity_Living_Lonely  
 <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">   

@@ -5,8 +5,9 @@
   
   
 ✨반갑습니다  !  
-현재 컴퓨터 소프트웨어 공학과 재학생 고정선입니다.    
-유니티와 언리얼 엔진5 공부중입니다.✨    
+현재 컴퓨터소프트웨어공학과 재학생 고정선입니다.    
+유니티와 언리얼 엔진5 공부중입니다.  
+최근에는 언리얼 엔진5 위주로 공부중입니다!✨  
   
   
 🔭Main Engine    
@@ -29,19 +30,3 @@ https://github.com/rhwjdtjs/Unity_Living_Lonely
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=black">  
 😄My Dev Stroy  
 https://jeongseondevlog.tistory.com/  
-
- [![rhwjdtjs's git stats](https://github-readme-stats.vercel.app/api?username=rhwjdtjs)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**rhwjdtjs/rhwjdtjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

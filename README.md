@@ -25,9 +25,9 @@ https://github.com/rhwjdtjs/Unity_Flight_Fighter
 Game Repository Link  
 https://github.com/rhwjdtjs/Unity_Living_Lonely  
 <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">   
-● (Planning) 2024년 2월 ~ 2025년 7월  Project D  -Unreal Engine 5-horror game  
-Dark House The teaser video  
+Unreal Engine 5 Cinematic practice video    
 https://youtu.be/bu9N_MtNWHo?si=5Hg3a_QbwuNCJLJg  
+● (Planning) 2024년 4월 ~ 2025년 8월 Harena <1 vs 1 Single arena versus Roglike game)    
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=black">  
 😄My Dev Stroy  
 https://jeongseondevlog.tistory.com/  

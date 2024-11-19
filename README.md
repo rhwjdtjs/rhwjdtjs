@@ -27,7 +27,7 @@ https://github.com/rhwjdtjs/Unity_Living_Lonely
 <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">   
 Unreal Engine 5 Cinematic practice video    
 https://youtu.be/bu9N_MtNWHo?si=5Hg3a_QbwuNCJLJg  
-● (Planning) 2025년 3월 ~ 2025년 9월 Multiplayer fps game made with Unreal Engine 5 (type not known)
+● (Planning) 2025년 3월 ~ 2025년 9월 Multiplayer fps game made with Unreal Engine 5 (type not known)  
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=black">  
 😄My Dev Stroy  
 https://jeongseondevlog.tistory.com/  

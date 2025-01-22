@@ -28,7 +28,7 @@ https://github.com/rhwjdtjs/Unity_Living_Lonely
 Unreal Engine 5 Cinematic practice video    
 https://youtu.be/bu9N_MtNWHo?si=5Hg3a_QbwuNCJLJg  
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=black">  
-● (Planning) 2025년 3월 ~ 2025년 9월 Multiplayer fps game made with Unreal Engine 5 (type not known)  
+● 2025년 1월 ~ 2025년 9월 CO-OP Zombie fps game made with Unreal Engine 5 (type not known)  
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=black">  
 😄My Dev Stroy  
 https://jeongseondevlog.tistory.com/  

@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=black">   
 
 🔭Main Language  
-<img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=black">   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=C++&logoColor=black">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=C++&logoColor=black">
                            
 ⚡My Projects  
 ● 2022년 8월 ~ 2022년 10월 Flight Fighter -Unity Project-1 vs 1 Photon Network Multiplay Acade Flight  

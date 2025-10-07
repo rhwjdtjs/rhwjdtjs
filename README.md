@@ -33,5 +33,7 @@ https://github.com/rhwjdtjs/UE5_Port
 <img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=black">     
 Velocore Alpha test video  
 https://www.youtube.com/watch?v=WeMqVnDT7_Y&t=159s  
+Velocore test video (10 players)   
+https://youtu.be/35-OI47LQC0?si=CwRU1Od1r-Pb0UYe  
 😄My Dev Stroy  
 https://jeongseondevlog.tistory.com/  

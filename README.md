@@ -35,5 +35,8 @@ Velocore Alpha test video
 https://www.youtube.com/watch?v=WeMqVnDT7_Y&t=159s  
 Velocore test video (10 players)   
 https://youtu.be/35-OI47LQC0?si=CwRU1Od1r-Pb0UYe  
+● 2025년 10월 ~ 2026년 3월 ProjectSUZ Multiplay with Unreal Engine5(Survival Zombie) (5.5.4)(Online Subsystem Steam / Listen Server)(3인 협업 예정)   
+https://github.com/rhwjdtjs/UE5_PORT2  
+<img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=black">   
 😄My Dev Stroy  
 https://jeongseondevlog.tistory.com/  

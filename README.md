@@ -53,7 +53,7 @@
    
   
 🔭Main Engine    
- <img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=white">   <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=white">  
+ <img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=white">   <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">  
 
 🔭Main Language  
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=C++&logoColor=black">
@@ -66,17 +66,17 @@ https://github.com/rhwjdtjs/Unity_Flight_Fighter
 ● 2023년 3월 ~ 2023년 6월  Living Lonely  -Unity Project-Openworld Survival  
 Game Repository Link  
 https://github.com/rhwjdtjs/Unity_Living_Lonely  
-<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">   
+<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=white">   
 Unreal Engine 5 Cinematic practice video    
 https://youtu.be/bu9N_MtNWHo?si=5Hg3a_QbwuNCJLJg  
 <img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=black">   
 ● 2025년 5월 ~ 2025년 10월 VeloCore Hyper FPS Multiplay with Unreal Engine5 (5.5.4)(Online Subsystem Steam / Listen Server)     
 https://github.com/rhwjdtjs/UE5_Port  
-<img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=black">     
+<img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=white">     
 ㄴVelocore Alpha test video  
 https://www.youtube.com/watch?v=WeMqVnDT7_Y&t=159s  
 ㄴVelocore test video (10 players)   
 https://youtu.be/35-OI47LQC0?si=CwRU1Od1r-Pb0UYe  
 ● 2025년 12월 ~ 2026년 2~3월 ProjectSUZ Multiplay with Unreal Engine5(Survival Zombie) (5.5.4)(Online Subsystem Steam / Listen Server ? AWS Dedicated Server)(3인 협업 예정)   
 https://github.com/rhwjdtjs/UE5_PORT2  
-<img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=black">   
+<img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=white">   

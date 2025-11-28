@@ -1,6 +1,6 @@
 ### Hi there 👋  
   
-<div style="display: flex; align-items: center; gap: 6px;">
+<div style="display: flex; align-items: center; gap: 100px;">
   <span style="font-size:18px;">💬연락처 :</span>
   <a href="https://open.kakao.com/o/sMbId73h">
     <img 

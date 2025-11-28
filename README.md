@@ -3,11 +3,11 @@
   
 게임 개발과 실시간 상호작용 시스템에 깊은 흥미를 가지고 있으며,  
 유니티와 언리얼 엔진을 모두 다뤄본 경험이 있습니다.  
-최근에는 Unreal Engine 5 기반의 시스템 설계·네트워크·게임플레이 구현에 집중하고 있습니다.  
+최근에는 언리얼 엔진 5 기반의 시스템 설계·게임플레이 구현에 집중하고 있습니다.    
   
 새로운 기능을 직접 설계하고 만들어내는 과정을 좋아하며,  
 끊임없이 실험하고 배우는 개발자를 목표로 하고 있습니다.  
-
+  
 <table>
   <tr>
     <td><strong>💬연락처</strong></td>
@@ -26,7 +26,7 @@
   <tr>
     <td><strong>💬 E-mail</strong></td>
     <td>
-      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aaasoft3@gmail.com&su=문의드립니다">
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aaasoft3@gmail.com&su=안녕하세요">
         <img 
           src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
           width="120"
@@ -34,11 +34,8 @@
       </a>
     </td>
   </tr>
-</table>
-
-     
+</table>  
   
-    
 😄My Dev Stroy  
 https://jeongseondevlog.tistory.com/   
   

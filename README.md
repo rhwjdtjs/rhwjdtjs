@@ -1,6 +1,6 @@
 ### Hi there 👋  
   
-💬연락처 : [![Video Link]<img src=https://img.shields.io/badge/kakaotalk-#FFCD00?style=flat-square&logo=kakaotalk&logoColor=yellow"/>(https://open.kakao.com/o/sMbId73h)                           
+💬연락처 : [![Video Link]<img src=https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=yellow"/>](https://open.kakao.com/o/sMbId73h)                           
 💬Email : qqq253222@naver.com  / aaasoft3@gmail.com 
   
   

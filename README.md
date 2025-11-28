@@ -1,10 +1,10 @@
-### Hi there 👋  
+👋👋    
   
 <table>
   <tr>
     <td><strong>💬 연락처</strong></td>
     <td>
-      <a href="https://open.kakao.com/your_chatroom">
+      <a href="https://open.kakao.com/o/sMbId73h">
         <img 
           src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=yellow" 
           width="120"
@@ -14,13 +14,13 @@
   </tr>
 </table>
                      
-💬Email : qqq253222@naver.com  / aaasoft3@gmail.com 
+💬Email : aaasoft3@gmail.com 
   
   
-✨반갑습니다  !  
+👋반갑습니다  !  
 현재 컴퓨터소프트웨어공학과 재학생 고정선입니다.    
 유니티와 언리얼 엔진5 공부중입니다.  
-최근에는 언리얼 엔진5 위주로 공부중입니다!✨  
+최근에는 언리얼 엔진5 위주로 공부중입니다!👋  
   
 😄My Dev Stroy  
 https://jeongseondevlog.tistory.com/   

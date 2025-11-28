@@ -10,7 +10,7 @@
   
 <table>
   <tr>
-    <td><strong>💬연락처</strong></td>
+    <td><strong>💬 연락처</strong></td>
     <td>
       <a href="https://open.kakao.com/o/sMbId73h">
         <img 
@@ -36,7 +36,7 @@
   </tr>
 </table>  
   
-😄My Dev Stroy  
+😄My Dev Stroy(나의 개발 블로그)  
 https://jeongseondevlog.tistory.com/   
   
 🔭Main Engine    

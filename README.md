@@ -15,7 +15,7 @@
       <a href="https://open.kakao.com/o/sMbId73h">
         <img 
           src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white" 
-          width="120"
+          width="150"
         />
       </a>
     </td>
@@ -29,15 +29,28 @@
       <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aaasoft3@gmail.com&su=안녕하세요">
         <img 
           src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
-          width="120"
+          width="150"
         />
       </a>
     </td>
   </tr>
 </table>  
+<table>
+  <tr>
+    <td><strong>😄 My Dev Stroy(나의 개발 블로그)</strong></td>
+    <td>
+      <a href="https://jeongseondevlog.tistory.com/">
+        <img 
+          src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white" 
+          width="150"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+         
   
-😄My Dev Stroy(나의 개발 블로그)  
-https://jeongseondevlog.tistory.com/   
+   
   
 🔭Main Engine    
 <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"> <img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=black">  

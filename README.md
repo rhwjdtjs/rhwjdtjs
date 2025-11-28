@@ -10,7 +10,7 @@
   
 <table>
   <tr>
-    <td><strong>💬 연락처(카카오톡 채팅방)</strong></td>
+    <td><strong>💬 연락처</strong></td>
     <td>
       <a href="https://open.kakao.com/o/sMbId73h">
         <img 
@@ -24,7 +24,7 @@
                      
 <table>
   <tr>
-    <td><strong>💬 E-mail(Gmail)</strong></td>
+    <td><strong>💬 E-mail</strong></td>
     <td>
       <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aaasoft3@gmail.com&su=안녕하세요">
         <img 
@@ -37,7 +37,7 @@
 </table>  
 <table>
   <tr>
-    <td><strong>😄 My Dev Stroy(나의 개발 블로그)</strong></td>
+    <td><strong>😄 Dev Blog</strong></td>
     <td>
       <a href="https://jeongseondevlog.tistory.com/">
         <img 

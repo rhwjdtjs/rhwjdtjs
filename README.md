@@ -1,14 +1,12 @@
 ### Hi there 👋  
   
-<h3>💬 연락처 :</h3>
+<h3>💬 연락처 :
 <a href="https://open.kakao.com/your_chatroom">
   <img 
     src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=yellow"
     width="130"
   />
-</a>
-
-                         
+</a>                      
 💬Email : qqq253222@naver.com  / aaasoft3@gmail.com 
   
   

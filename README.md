@@ -1,6 +1,6 @@
 ### Hi there 👋  
   
-<span style="font-size:18px;">💬 연락처 :</span>
+<span style="font-size:50px;">💬연락처 :</span>
 <a href="https://open.kakao.com/o/sMbId73h" style="vertical-align: middle;">
   <img 
     src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=yellow" 

@@ -28,7 +28,7 @@
     <td>
       <a href="mailto:aaasoft3@gmail.com">
         <img 
-          src="https://img.shields.io/badge/email-2C6A93?style=flat-square&logo=gmail&logoColor=white"
+          src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
           width="120"
         />
       </a>

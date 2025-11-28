@@ -71,10 +71,32 @@ https://youtu.be/bu9N_MtNWHo?si=5Hg3a_QbwuNCJLJg
 ● 2025년 5월 ~ 2025년 10월 VeloCore Hyper FPS Multiplay with Unreal Engine5 (5.5.4)(Online Subsystem Steam / Listen Server)     
 https://github.com/rhwjdtjs/UE5_Port  
 <img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=white">     
-ㄴVelocore Alpha test video  
-https://www.youtube.com/watch?v=WeMqVnDT7_Y&t=159s  
-ㄴVelocore test video (10 players)   
-https://youtu.be/35-OI47LQC0?si=CwRU1Od1r-Pb0UYe  
+<table>
+  <tr>
+    <td><strong>📺 VeloCore Alpha Test Video (3 Players)</strong></td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=WeMqVnDT7_Y&t=1s">
+        <img 
+          src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white" 
+          width="150"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><strong>📺 VeloCore Final Test Video (10 Players)</strong></td>
+    <td>
+      <a href="https://youtu.be/35-OI47LQC0?si=CwRU1Od1r-Pb0UYe">
+        <img 
+          src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white" 
+          width="150"
+        />
+      </a>
+    </td>
+  </tr>
+</table>   
 ● 2025년 12월 ~ 2026년 2~3월 ProjectSUZ Multiplay with Unreal Engine5(Survival Zombie) (5.5.4)(Online Subsystem Steam / Listen Server ? AWS Dedicated Server)(3인 협업 예정)   
 https://github.com/rhwjdtjs/UE5_PORT2  
 <img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=white">   

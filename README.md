@@ -1,12 +1,20 @@
-👋👋    
+👋 반갑습니다!
+컴퓨터소프트웨어공학과에서 개발을 공부하고 있는 고정선입니다.  
   
+게임 개발과 실시간 상호작용 시스템에 깊은 흥미를 가지고 있으며,  
+유니티와 언리얼 엔진을 모두 다뤄본 경험이 있습니다.  
+최근에는 Unreal Engine 5 기반의 시스템 설계·네트워크·게임플레이 구현에 집중하고 있습니다.  
+  
+새로운 기능을 직접 설계하고 만들어내는 과정을 좋아하며,  
+끊임없이 실험하고 배우는 개발자를 목표로 하고 있습니다.  
+
 <table>
   <tr>
-    <td><strong>💬 연락처</strong></td>
+    <td><strong>💬연락처</strong></td>
     <td>
       <a href="https://open.kakao.com/o/sMbId73h">
         <img 
-          src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=yellow" 
+          src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white" 
           width="120"
         />
       </a>
@@ -14,14 +22,22 @@
   </tr>
 </table>
                      
-💬Email : aaasoft3@gmail.com 
+<table>
+  <tr>
+    <td><strong>💬E-mail</strong></td>
+    <td>
+      <a href="mailto:aaasoft3@gmail.com">
+        <img 
+          src="https://img.shields.io/badge/email-2C6A93?style=flat-square&logo=gmail&logoColor=white"
+          width="120"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+     
   
-  
-👋반갑습니다  !  
-현재 컴퓨터소프트웨어공학과 재학생 고정선입니다.    
-유니티와 언리얼 엔진5 공부중입니다.  
-최근에는 언리얼 엔진5 위주로 공부중입니다!👋  
-  
+    
 😄My Dev Stroy  
 https://jeongseondevlog.tistory.com/   
   

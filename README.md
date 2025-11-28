@@ -24,9 +24,9 @@
                      
 <table>
   <tr>
-    <td><strong>💬E-mail</strong></td>
+    <td><strong>💬 E-mail</strong></td>
     <td>
-      <a href="[📧 Gmail로 메일 보내기](https://mail.google.com/mail/?view=cm&fs=1&to=aaasoft3@gmail.com&su=문의드립니다)">
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aaasoft3@gmail.com&su=문의드립니다">
         <img 
           src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
           width="120"
@@ -35,6 +35,7 @@
     </td>
   </tr>
 </table>
+
      
   
     

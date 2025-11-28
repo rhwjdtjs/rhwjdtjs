@@ -1,14 +1,12 @@
 ### Hi there 👋  
   
-<div style="display: flex; align-items: center; gap: 100px;">
-  <span style="font-size:18px;">💬연락처 :</span>
-  <a href="https://open.kakao.com/o/sMbId73h">
-    <img 
-      src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=yellow" 
-      width="110"
-    />
-  </a>
-</div>
+<h3>💬 연락처 :</h3>
+<a href="https://open.kakao.com/your_chatroom">
+  <img 
+    src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=yellow"
+    width="130"
+  />
+</a>
 
                          
 💬Email : qqq253222@naver.com  / aaasoft3@gmail.com 

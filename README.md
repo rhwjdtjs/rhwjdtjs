@@ -1,7 +1,7 @@
 ### Hi there 👋  
   
-💬연락처                         
-💬Email : qqq253222@naver.com  / aagoki11234@gmail.com  
+💬연락처 : https://open.kakao.com/o/sMbId73h                         
+💬Email : qqq253222@naver.com  / aaasoft3@gmail.com 
   
   
 ✨반갑습니다  !  
@@ -9,6 +9,8 @@
 유니티와 언리얼 엔진5 공부중입니다.  
 최근에는 언리얼 엔진5 위주로 공부중입니다!✨  
   
+😄My Dev Stroy  
+https://jeongseondevlog.tistory.com/   
   
 🔭Main Engine    
 <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"> <img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=black">  
@@ -31,12 +33,10 @@ https://youtu.be/bu9N_MtNWHo?si=5Hg3a_QbwuNCJLJg
 ● 2025년 5월 ~ 2025년 10월 VeloCore Hyper FPS Multiplay with Unreal Engine5 (5.5.4)(Online Subsystem Steam / Listen Server)     
 https://github.com/rhwjdtjs/UE5_Port  
 <img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=black">     
-Velocore Alpha test video  
+ㄴVelocore Alpha test video  
 https://www.youtube.com/watch?v=WeMqVnDT7_Y&t=159s  
-Velocore test video (10 players)   
+ㄴVelocore test video (10 players)   
 https://youtu.be/35-OI47LQC0?si=CwRU1Od1r-Pb0UYe  
-● 2025년 10월 ~ 2026년 3월 ProjectSUZ Multiplay with Unreal Engine5(Survival Zombie) (5.5.4)(Online Subsystem Steam / Listen Server)(3인 협업 예정)   
+● 2025년 12월 ~ 2026년 2~3월 ProjectSUZ Multiplay with Unreal Engine5(Survival Zombie) (5.5.4)(Online Subsystem Steam / Listen Server ? AWS Dedicated Server)(3인 협업 예정)   
 https://github.com/rhwjdtjs/UE5_PORT2  
 <img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=black">   
-😄My Dev Stroy  
-https://jeongseondevlog.tistory.com/  

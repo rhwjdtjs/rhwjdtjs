@@ -64,7 +64,7 @@ https://github.com/rhwjdtjs/Unity_Flight_Fighter
 ● 2023년 3월 ~ 2023년 6월  Living Lonely  -Unity Project-Openworld Survival  
 Game Repository Link  
 https://github.com/rhwjdtjs/Unity_Living_Lonely  
-<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=white">   
+<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">   
 Unreal Engine 5 Cinematic practice video    
 https://youtu.be/bu9N_MtNWHo?si=5Hg3a_QbwuNCJLJg  
 <img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=black">   

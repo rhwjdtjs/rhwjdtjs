@@ -70,8 +70,6 @@
     </td>
   </tr>
 </table>
-<img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=white" width="400">    
-https://github.com/rhwjdtjs/UE5_Port   
 <table>
   <tr>
     <td><strong>📺 VeloCore Alpha Test Video (3 Players)</strong></td>
@@ -90,6 +88,19 @@ https://github.com/rhwjdtjs/UE5_Port
     <td><strong>📺 VeloCore Final Test Video (10 Players)</strong></td>
     <td>
       <a href="https://youtu.be/35-OI47LQC0?si=CwRU1Od1r-Pb0UYe">
+        <img 
+          src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white" 
+          width="150"
+        />
+      </a>
+    </td>
+  </tr>
+</table>  
+<table>
+  <tr>
+    <td><strong>📺 Unreal Engine 5 Cinematic practice video</strong></td>
+    <td>
+      <a href="https://youtu.be/bu9N_MtNWHo?si=5Hg3a_QbwuNCJLJg">
         <img 
           src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white" 
           width="150"

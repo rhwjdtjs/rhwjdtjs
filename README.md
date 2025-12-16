@@ -50,13 +50,13 @@
   
    
   
- * #🔭Main Engine    
+* # 🔭Main Engine    
  <img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=white" width="300">   <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" width="135">  
 
- * #🔭Main Language  
+* # 🔭Main Language  
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=C++&logoColor=black">
                            
- * #⚡My Projects  
+* # ⚡My Projects  
 ## ● 2025년 5월 ~ 2025년 10월 VeloCore Hyper FPS Multiplay with Unreal Engine5 (5.5.4)(Online Subsystem Steam / Listen Server)   
 <img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=white" width="300">    
 https://github.com/rhwjdtjs/UE5_Port   

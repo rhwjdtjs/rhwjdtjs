@@ -126,8 +126,6 @@
   <tr>
     <td><strong>📺Living Lonely 시연 동영상</strong></td>
     <td>
-      <a href="https:/상</strong></td>
-    <td>
       <a href="https://youtu.be/Ya8GWlwHJAQ?si=VlzrHAL5SmqYwd_f">
         <img 
           src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white" 

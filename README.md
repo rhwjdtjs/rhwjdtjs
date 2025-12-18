@@ -211,149 +211,60 @@
 
       </td>
       <td width="34%" valign="top">
+# ⚡ My Projects
+> 이미지/제목/장르 클릭 시 해당 Repository로 이동
 
-### VeloCore
-Velocity(속도) + Core. **빠른 이동/반응**을 핵심으로 한 **하이퍼 TPS 멀티플레이** 게임입니다.  
-와이어 액션과 이동 버프를 통해 빠른 템포의 전투를 설계했습니다.
+<table>
+  <!-- 1) VeloCore -->
+  <tr>
+    <td width="260">
+      <a href="https://github.com/rhwjdtjs/UE5_Port">
+        <img src="YOUR_VELOCORE_COVER_URL" width="250" alt="VeloCore Cover" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/rhwjdtjs/UE5_Port"><b>VeloCore</b></a><br/>
+      <a href="https://github.com/rhwjdtjs/UE5_Port">Hyper TPS · Multiplayer · Listen Server · Steam OSS</a>
+    </td>
+  </tr>
 
-**Tags**  
-![UE5](https://img.shields.io/badge/UE5-0E1128?style=flat&logo=unrealengine&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![SteamOSS](https://img.shields.io/badge/Steam%20OSS-000000?style=flat&logo=steam&logoColor=white)
-![ListenServer](https://img.shields.io/badge/Listen%20Server-444444?style=flat)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+  <!-- 2) Living Lonely -->
+  <tr>
+    <td width="260">
+      <a href="https://github.com/rhwjdtjs/Unity_Living_Lonely">
+        <img src="YOUR_LIVING_LONELY_COVER_URL" width="250" alt="Living Lonely Cover" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/rhwjdtjs/Unity_Living_Lonely"><b>Living Lonely</b></a><br/>
+      <a href="https://github.com/rhwjdtjs/Unity_Living_Lonely">Open World · Survival · Single Player (Unity)</a>
+    </td>
+  </tr>
 
-**Links**
-- Repo: https://github.com/rhwjdtjs/UE5_Port  
-- Final Test (10P): https://youtu.be/35-OI47LQC0?si=CwRU1Od1r-Pb0UYe  
-- Alpha Test (3P): https://www.youtube.com/watch?v=WeMqVnDT7_Y&t=1s  
-- Feature Video: https://www.youtube.com/watch?v=pTvCdJSy_EI&t=1s  
+  <!-- 3) Flight Fighter -->
+  <tr>
+    <td width="260">
+      <a href="https://github.com/rhwjdtjs/Unity_Flight_Fighter">
+        <img src="YOUR_FLIGHT_FIGHTER_COVER_URL" width="250" alt="Flight Fighter Cover" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/rhwjdtjs/Unity_Flight_Fighter"><b>Flight Fighter</b></a><br/>
+      <a href="https://github.com/rhwjdtjs/Unity_Flight_Fighter">1v1 · Photon Network · Action (Unity)</a>
+    </td>
+  </tr>
 
-**Specs (Dev)**
-- UE 5.5.4 / VS 2022 / Windows 11  
-- 1인 개발 (Gameplay C++/BP, Network, HUD/UI, Anim/Sound, Firebase)
+  <!-- 4) ProjectSUZ -->
+  <tr>
+    <td width="260">
+      <a href="https://github.com/rhwjdtjs/UE5_PORT2">
+        <img src="YOUR_PROJECTSUZ_COVER_URL" width="250" alt="ProjectSUZ Cover" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/rhwjdtjs/UE5_PORT2"><b>ProjectSUZ</b></a><br/>
+      <a href="https://github.com/rhwjdtjs/UE5_PORT2">Survival · Zombie · Multiplayer (UE5) · (Planned)</a>
+    </td>
+  </tr>
+</table>
 
-      </td>
-    </tr>
-  </table>
-
-  <details>
-    <summary><b>📌 Key Features</b></summary>
-
-- **Combat**: 서버 판정 기반 사격/피격(RPC + Replication), 무기 교체/재장전/수류탄  
-- **Wire**: 서버 트레이스 판정 → 성공/실패 분기 → 전원 연출 동기화(Multicast)  
-- **Buff/Pickup**: 체력/실드/이속/점프, HUD OnRep 반영  
-- **Session**: Steam OSS 기반 생성/탐색/조인(리스닝 서버)
-  </details>
-
-  <details>
-    <summary><b>🧾 System Requirements (예시 섹션)</b></summary>
-
-| 구분 | 최소 | 권장 |
-|---|---|---|
-| OS | Windows 10/11 | Windows 11 |
-| CPU | (기입) | (기입) |
-| RAM | (기입) | (기입) |
-| GPU | (기입) | (기입) |
-
-  </details>
-
-</details>
-
----
-
-<details>
-  <summary><b>✅ 2023.03 ~ 2023.06 | Living Lonely (Unity Openworld Survival)</b></summary>
-
-  <p align="center">
-    <img src="YOUR_LL_BANNER_URL" alt="Living Lonely Banner" width="1000" />
-  </p>
-
-  <table>
-    <tr>
-      <td width="66%" valign="top">
-        <a href="https://youtu.be/Ya8GWlwHJAQ?si=VlzrHAL5SmqYwd_f">
-          <img src="YOUR_LL_MAIN_MEDIA_URL" width="100%" />
-        </a>
-      </td>
-      <td width="34%" valign="top">
-
-### Living Lonely
-(한 줄 컨셉 요약)
-
-**Tags**  
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
-
-**Links**
-- Repo: https://github.com/rhwjdtjs/Unity_Living_Lonely  
-- Video: https://youtu.be/Ya8GWlwHJAQ?si=VlzrHAL5SmqYwd_f
-
-      </td>
-    </tr>
-  </table>
-</details>
-
----
-
-<details>
-  <summary><b>✅ 2022.04 ~ 2022.06 | Flight Fighter (Unity 1v1 Photon)</b></summary>
-
-  <p align="center">
-    <img src="YOUR_FF_BANNER_URL" alt="Flight Fighter Banner" width="1000" />
-  </p>
-
-  <table>
-    <tr>
-      <td width="66%" valign="top">
-        <a href="https://youtu.be/Ya8GWlwHJAQ?si=I2b1vTEqkQfTwrC-">
-          <img src="YOUR_FF_MAIN_MEDIA_URL" width="100%" />
-        </a>
-      </td>
-      <td width="34%" valign="top">
-
-### Flight Fighter
-(한 줄 컨셉 요약)
-
-**Tags**  
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
-![Photon](https://img.shields.io/badge/Photon-0066FF?style=flat)
-
-**Links**
-- Repo: https://github.com/rhwjdtjs/Unity_Flight_Fighter  
-- Video: https://youtu.be/Ya8GWlwHJAQ?si=I2b1vTEqkQfTwrC-
-
-      </td>
-    </tr>
-  </table>
-</details>
-
----
-
-<details>
-  <summary><b>🛠️ (Planned) 2025.12 ~ 2026.03 | ProjectSUZ (UE5 Survival Zombie Multiplayer)</b></summary>
-
-  <p align="center">
-    <img src="YOUR_SUZ_BANNER_URL" alt="ProjectSUZ Banner" width="1000" />
-  </p>
-
-  <table>
-    <tr>
-      <td width="66%" valign="top">
-        <img src="YOUR_SUZ_CONCEPT_MEDIA_URL" width="100%" />
-      </td>
-      <td width="34%" valign="top">
-
-### ProjectSUZ
-UE5 기반 생존 좀비 멀티플레이 (Steam OSS / Dedicated Server(AWS) 검토)
-
-**Tags**  
-![UE5](https://img.shields.io/badge/UE5-0E1128?style=flat&logo=unrealengine&logoColor=white)
-![Multiplayer](https://img.shields.io/badge/Multiplayer-444444?style=flat)
-
-**Links**
-- Repo: https://github.com/rhwjdtjs/UE5_PORT2  
-
-      </td>
-    </tr>
-  </table>
-</details>

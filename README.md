@@ -1,43 +1,65 @@
+<!-- =========================
+   Quick Links (Horizontal)
+========================= -->
 <table>
   <tr>
-    <td><strong>💬 연락처</strong></td>
     <td>
-      <a href="https://open.kakao.com/o/sMbId73h">
-        <img 
-          src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white" 
-          width="150"
-        />
-      </a>
+      <table>
+        <tr>
+          <td><strong>💬 연락처</strong></td>
+          <td>
+            <a href="https://open.kakao.com/o/sMbId73h">
+              <img
+                src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"
+                width="150"
+                alt="kakaotalk"
+              />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+
+  <td width="18"></td>
+
+   <td>
+      <table>
+        <tr>
+          <td><strong>💬 E-mail</strong></td>
+          <td>
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aaasoft3@gmail.com&su=안녕하세요">
+              <img
+                src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
+                width="150"
+                alt="Gmail"
+              />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+
+   <td width="18"></td>
+
+   <td>
+      <table>
+        <tr>
+          <td><strong>😄 Dev Blog</strong></td>
+          <td>
+            <a href="https://jeongseondevlog.tistory.com/">
+              <img
+                src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"
+                width="150"
+                alt="tistory"
+              />
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
-                     
-<table>
-  <tr>
-    <td><strong>💬 E-mail</strong></td>
-    <td>
-      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aaasoft3@gmail.com&su=안녕하세요">
-        <img 
-          src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
-          width="150"
-        />
-      </a>
-    </td>
-  </tr>
-</table>  
-<table>
-  <tr>
-    <td><strong>😄 Dev Blog</strong></td>
-    <td>
-      <a href="https://jeongseondevlog.tistory.com/">
-        <img 
-          src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white" 
-          width="150"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+
            
 # 💻 Main Engine / 🧠 Main Language     
  <img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=white">   <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=C++&logoColor=black">

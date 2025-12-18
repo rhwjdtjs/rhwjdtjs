@@ -80,14 +80,10 @@
                style="display:block; margin:0; padding:0;"
                alt="VeloCore Cover" />
         </td>
-
-       
   <td style="border:0 !important; padding:0 10px !important; vertical-align:middle;">
           <b>VeloCore -멀티플레이 하이퍼 TPS-</b><br/>
           <sub>하이퍼 TPS · 온라인 멀티플레이 · Listen Server · Steam OSS</sub>
-        </td>
-
-       
+        </td>   
    <td width="110"
             style="border:0 !important; padding:0 6px !important; text-align:right; white-space:nowrap; vertical-align:middle;">
           <sub><b>자세히 보기 ▾</b></sub>
@@ -142,10 +138,6 @@
   <br/>
 </details>
 <hr/>
-
-<!-- =========================
-   2) Living Lonely
-========================= -->
 <details>
   <summary>
     <table width="100%" style="border-collapse:collapse; border:none; margin:0; padding:0;">
@@ -214,10 +206,6 @@
   <br/>
 </details>
 <hr/>
-
-<!-- =========================
-   3) Flight Fighter
-========================= -->
 <details>
   <summary>
     <table width="100%" style="border-collapse:collapse; border:none; margin:0; padding:0;">
@@ -235,9 +223,7 @@
       </tr>
     </table>
   </summary>
-
   <br/>
-
   <table>
     <tr>
       <td width="68%" valign="top">
@@ -279,14 +265,9 @@
       </td>
     </tr>
   </table>
-
   <br/>
 </details>
 <hr/>
-
-<!-- =========================
-   4) Project SUZ (Planned)
-========================= -->
 <details>
   <summary>
     <table width="100%" style="border-collapse:collapse; border:none; margin:0; padding:0;">
@@ -305,9 +286,7 @@
       </tr>
     </table>
   </summary>
-
   <br/>
-
   <table>
     <tr>
       <td width="68%" valign="top">

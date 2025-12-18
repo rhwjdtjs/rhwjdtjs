@@ -152,16 +152,16 @@
 ========================= -->
 <details>
   <summary>
-    <table width="50%">
+    <table width="100%" style="border-collapse:collapse; border:none; margin:0; padding:0;">
       <tr>
-        <td width="180">
-          <img src="https://github.com/user-attachments/assets/57571bfc-642c-483a-88ed-e5f59b960030" width="300" alt="Living Lonely Cover" />
+        <td style="border:none; padding:6px 10px; width:190px;">
+          <img src="https://github.com/user-attachments/assets/57571bfc-642c-483a-88ed-e5f59b960030" width="300" alt="VeloCore Cover" />
         </td>
-        <td>
+        <td style="border:none; padding:6px 10px;">
           <b>Living Lonely -오픈월드 생존게임-</b><br/>
           <sub>오픈월드 · 싱글플레이 · 생존게임 · PlayFab</sub>
         </td>
-        <td align="right" width="140">
+        <td style="border:none; padding:6px 10px; width:140px; text-align:right; white-space:nowrap;">
           <sub><b>자세히 보기 ▾</b></sub>
         </td>
       </tr>
@@ -224,16 +224,16 @@
 ========================= -->
 <details>
   <summary>
-    <table width="100%">
+    <table width="100%" style="border-collapse:collapse; border:none; margin:0; padding:0;">
       <tr>
-        <td width="180">
-          <img src="https://github.com/user-attachments/assets/9ae2af30-d2b2-4969-807d-24a39cffc562" width="170" alt="Flight Fighter Cover" />
+        <td style="border:none; padding:6px 10px; width:190px;">
+          <img src="https://github.com/user-attachments/assets/9ae2af30-d2b2-4969-807d-24a39cffc562" width="300" alt="VeloCore Cover" />
         </td>
-        <td>
+        <td style="border:none; padding:6px 10px;">
           <b>Flight Fighter -1대1 아케이드 전투기 게임-</b><br/>
           <sub>멀티플레이 · 아케이드 · 전투기 시뮬레이션</sub>
         </td>
-        <td align="right" width="140">
+        <td style="border:none; padding:6px 10px; width:140px; text-align:right; white-space:nowrap;">
           <sub><b>자세히 보기 ▾</b></sub>
         </td>
       </tr>
@@ -293,16 +293,17 @@
 ========================= -->
 <details>
   <summary>
-    <table width="100%">
+    <table width="100%" style="border-collapse:collapse; border:none; margin:0; padding:0;">
       <tr>
-        <td width="180">
-          <img src="https://github.com/user-attachments/assets/1a9705de-c3a2-4da1-b7f3-cdd862d8f19e" width="170" alt="Project SUZ Cover" />
+        <td style="border:none; padding:6px 10px; width:190px;">
+          <img src="https://github.com/user-attachments/assets/1a9705de-c3a2-4da1-b7f3-cdd862d8f19e" width="300" alt="VeloCore Cover" />
         </td>
-        <td>
+        <td style="border:none; padding:6px 10px;">
           <b>Project SUZ(개발준비중) -오픈월드 멀티플레이 생존게임-</b><br/>
           <sub>오픈월드 · 온라인 멀티플레이 · TPS · 생존게임 · Listen Server · Steam OSS</sub>
         </td>
-        <td align="right" width="140">
+        </td>
+        <td style="border:none; padding:6px 10px; width:140px; text-align:right; white-space:nowrap;">
           <sub><b>자세히 보기 ▾</b></sub>
         </td>
       </tr>

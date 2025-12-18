@@ -70,16 +70,26 @@
 ========================= -->
 <details>
   <summary>
-    <table width="100%" style="border-collapse:collapse; border:none; margin:0; padding:0;">
+    <table width="100%" cellpadding="0" cellspacing="0"
+           style="border-collapse:collapse; border:0 !important; margin:0; padding:0;">
       <tr>
-        <td style="border:none; padding:0px 0px; width:100px;">
-          <img src="https://github.com/user-attachments/assets/791895ae-086b-43db-a5db-f796a298335e" width="150" alt="VeloCore Cover" />
+        <td width="170"
+            style="border:0 !important; padding:0 !important; margin:0; vertical-align:middle;">
+          <img src="https://github.com/user-attachments/assets/791895ae-086b-43db-a5db-f796a298335e"
+               width="170"
+               style="display:block; margin:0; padding:0;"
+               alt="VeloCore Cover" />
         </td>
-        <td style="border:none; padding:6px 10px;">
+
+       
+  <td style="border:0 !important; padding:0 10px !important; vertical-align:middle;">
           <b>VeloCore -멀티플레이 하이퍼 TPS-</b><br/>
           <sub>하이퍼 TPS · 온라인 멀티플레이 · Listen Server · Steam OSS</sub>
         </td>
-        <td style="border:none; padding:6px 10px; width:140px; text-align:right; white-space:nowrap;">
+
+       
+   <td width="110"
+            style="border:0 !important; padding:0 6px !important; text-align:right; white-space:nowrap; vertical-align:middle;">
           <sub><b>자세히 보기 ▾</b></sub>
         </td>
       </tr>

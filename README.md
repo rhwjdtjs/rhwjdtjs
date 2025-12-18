@@ -178,84 +178,266 @@
   </tr>
 </table>
 
-# ⚡ My Projects  
-> 이미지/제목 클릭 시 해당 Repository로 이동  
+# 🎮 My Projects (Steam-style)
 
-<table>
-  <!-- 1) VeloCore -->
-  <tr>
-    <td width="260">
-      <a href="https://github.com/rhwjdtjs/UE5_Port">
-        <img src="//여기에 이미지 링크 넣어주세요//" width="250" alt="VeloCore Cover" />
-      </a>
-    </td>
+<!-- =========================
+   1) VeloCore
+========================= -->
+<details open>
+  <summary>
+    <table>
+      <tr>
+        <td width="180">
+          <img src="//여기에 커버 이미지 링크//" width="170" alt="VeloCore Cover" />
+        </td>
+        <td>
+          <b>VeloCore</b><br/>
+          <sub>하이퍼 TPS · 온라인 멀티플레이 · Listen Server · Steam OSS</sub>
+        </td>
+      </tr>
+    </table>
+  </summary>
 
-    <td>
-      <a href="https://github.com/rhwjdtjs/UE5_Port"><b>VeloCore</b></a><br/>
-      하이퍼 TPS · 멀티플레이 · Listen Server · Steam OSS
-    </td>
+  <br/>
 
-    <td width="220" align="right" valign="top">
-      <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="Unreal Engine" /><br/>
-      <sub>개발 기간: 2025.05 ~ 2025.10</sub>
-    </td>
-  </tr>
+  <!-- 스팀 상세 페이지 느낌: (좌) 미디어 + 썸네일 / (우) 정보 패널 -->
+  <table>
+    <tr>
+      <!-- LEFT: MAIN MEDIA -->
+      <td width="68%" valign="top">
 
-  <!-- 2) Living Lonely -->
-  <tr>
-    <td width="260">
-      <a href="https://github.com/rhwjdtjs/Unity_Living_Lonely">
-        <img src="//여기에 이미지 링크 넣어주세요//" width="250" alt="Living Lonely Cover" />
-      </a>
-    </td>
+<!-- 메인 영상/이미지 -->
+<a href="//여기에 메인 영상 링크(유튜브)//">
+  <img src="//여기에 메인 미디어(영상 썸네일/GIF) 링크//" width="100%" alt="VeloCore Main Media" />
+</a>
 
-    <td>
-      <a href="https://github.com/rhwjdtjs/Unity_Living_Lonely"><b>Living Lonely</b></a><br/>
-      오픈월드 · 생존 · 싱글플레이 (Unity)
-    </td>
+<!-- 썸네일 라인(스팀처럼) -->
+<p>
+  <a href="//썸네일1_링크//"><img src="//썸네일이미지1//" width="19%" /></a>
+  <a href="//썸네일2_링크//"><img src="//썸네일이미지2//" width="19%" /></a>
+  <a href="//썸네일3_링크//"><img src="//썸네일이미지3//" width="19%" /></a>
+  <a href="//썸네일4_링크//"><img src="//썸네일이미지4//" width="19%" /></a>
+  <a href="//썸네일5_링크//"><img src="//썸네일이미지5//" width="19%" /></a>
+</p>
 
-    <td width="220" align="right" valign="top">
-      <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" alt="Unity" /><br/>
-      <sub>개발 기간: 2023.03 ~ 2023.06</sub>
-    </td>
-  </tr>
+      </td>
 
-  <!-- 3) Flight Fighter -->
-  <tr>
-    <td width="260">
-      <a href="https://github.com/rhwjdtjs/Unity_Flight_Fighter">
-        <img src="//여기에 이미지 링크 넣어주세요//" width="250" alt="Flight Fighter Cover" />
-      </a>
-    </td>
+      <!-- RIGHT: INFO PANEL -->
+      <td width="32%" valign="top">
 
-    <td>
-      <a href="https://github.com/rhwjdtjs/Unity_Flight_Fighter"><b>Flight Fighter</b></a><br/>
-      1v1 · Photon Network · Action (Unity)
-    </td>
+<img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="UE" /><br/>
+<sub><b>개발 기간</b>: 2025.05 ~ 2025.10 · <b>인원</b>: 1인</sub>
 
-    <td width="220" align="right" valign="top">
-      <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" alt="Unity" /><br/>
-      <sub>개발 기간: 2022.04 ~ 2022.06</sub>
-    </td>
-  </tr>
+<br/><br/>
 
-  <!-- 4) ProjectSUZ -->
-  <tr>
-    <td width="260">
-      <a href="https://github.com/rhwjdtjs/UE5_PORT2">
-        <img src="//여기에 이미지 링크 넣어주세요//" width="250" alt="ProjectSUZ Cover" />
-      </a>
-    </td>
+**About**  
+Velocity(속도) + Core. 빠른 이동/반응을 핵심으로 한 하이퍼 TPS 멀티플레이 게임.  
+와이어 액션과 이동 버프를 통해 “템포가 계속 유지되는 전투”를 목표로 설계.
 
-    <td>
-      <a href="https://github.com/rhwjdtjs/UE5_PORT2"><b>ProjectSUZ</b></a><br/>
-      Survival · Zombie · Multiplayer (Planned)
-    </td>
+**Tags**  
+`UE5` `C++` `Replication` `RPC` `Steam OSS` `Listen Server` `Firebase`
 
-    <td width="220" align="right" valign="top">
-      <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="Unreal Engine" /><br/>
-      <sub>개발 기간: 2025.12 ~ 2026.03 (예정)</sub>
-    </td>
-  </tr>
-</table>
+**Links**  
+- Repo: //레포 링크//  
+- Final Test(10P): //유튜브 링크//  
+- Alpha Test(3P): //유튜브 링크//  
+- Feature Video: //유튜브 링크//
 
+**Facts**  
+- Engine: UE 5.5.4  
+- IDE/OS: VS 2022 / Windows 11  
+- Data: Firebase Realtime DB
+
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- 스팀 상세페이지 아래 섹션 느낌 -->
+  <details>
+    <summary><b>✅ Key Features</b></summary>
+
+- **Combat**: 서버 판정 기반 사격/피격(RPC + Replication), 무기 교체/재장전/수류탄  
+- **Wire**: 서버 트레이스 판정 → 성공/실패 분기 → 전원 연출 동기화(Multicast)  
+- **Buff/Pickup**: 체력/실드/이속/점프 버프 및 HUD OnRep 동기화  
+- **Session**: Steam OSS 기반 세션 생성/탐색/조인(리스닝 서버)
+  </details>
+
+  <details>
+    <summary><b>🧾 System Requirements (선택)</b></summary>
+
+| 구분 | 최소 | 권장 |
+|---|---|---|
+| OS | Windows 10/11 | Windows 11 |
+| CPU | //기입// | //기입// |
+| RAM | //기입// | //기입// |
+| GPU | //기입// | //기입// |
+  </details>
+
+  <details>
+    <summary><b>📘 Technical Notes (선택)</b></summary>
+
+- 구조: `Character + Component(Combat/Wire/Buff)` 모듈화  
+- 네트워크: Client Input → Server RPC → 상태 갱신 → Multicast/OnRep로 동기화  
+- UI: HUD/Overlay를 PlayerController/HUD에서 중앙 관리
+  </details>
+
+</details>
+
+<hr/>
+
+<!-- =========================
+   2) Living Lonely
+========================= -->
+<details>
+  <summary>
+    <table>
+      <tr>
+        <td width="180">
+          <img src="//여기에 커버 이미지 링크//" width="170" alt="Living Lonely Cover" />
+        </td>
+        <td>
+          <b>Living Lonely</b><br/>
+          <sub>오픈월드 · 생존 · 싱글플레이 (Unity)</sub>
+        </td>
+      </tr>
+    </table>
+  </summary>
+
+  <br/>
+
+  <table>
+    <tr>
+      <td width="68%" valign="top">
+        <a href="//메인 영상 링크//">
+          <img src="//메인 미디어(썸네일/GIF)//" width="100%" />
+        </a>
+        <p>
+          <a href="//썸네일1_링크//"><img src="//썸네일1//" width="19%" /></a>
+          <a href="//썸네일2_링크//"><img src="//썸네일2//" width="19%" /></a>
+          <a href="//썸네일3_링크//"><img src="//썸네일3//" width="19%" /></a>
+          <a href="//썸네일4_링크//"><img src="//썸네일4//" width="19%" /></a>
+          <a href="//썸네일5_링크//"><img src="//썸네일5//" width="19%" /></a>
+        </p>
+      </td>
+      <td width="32%" valign="top">
+
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" alt="Unity" /><br/>
+<sub><b>개발 기간</b>: 2023.03 ~ 2023.06</sub>
+
+<br/><br/>
+
+**About**  
+//한 줄 컨셉 + 핵심 재미 2줄//
+
+**Tags**  
+`Unity` `Survival` `Open World` `Single Player`
+
+**Links**  
+- Repo: //레포 링크//  
+- Demo Video: //유튜브 링크//
+
+      </td>
+    </tr>
+  </table>
+</details>
+
+<hr/>
+
+<!-- =========================
+   3) Flight Fighter
+========================= -->
+<details>
+  <summary>
+    <table>
+      <tr>
+        <td width="180">
+          <img src="//여기에 커버 이미지 링크//" width="170" alt="Flight Fighter Cover" />
+        </td>
+        <td>
+          <b>Flight Fighter</b><br/>
+          <sub>1v1 · Photon Network · Action (Unity)</sub>
+        </td>
+      </tr>
+    </table>
+  </summary>
+
+  <br/>
+
+  <table>
+    <tr>
+      <td width="68%" valign="top">
+        <a href="//메인 영상 링크//">
+          <img src="//메인 미디어(썸네일/GIF)//" width="100%" />
+        </a>
+      </td>
+      <td width="32%" valign="top">
+
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" alt="Unity" /><br/>
+<sub><b>개발 기간</b>: 2022.04 ~ 2022.06</sub>
+
+<br/><br/>
+
+**About**  
+//한 줄 컨셉//
+
+**Tags**  
+`Unity` `Photon` `1v1` `Action`
+
+**Links**  
+- Repo: //레포 링크//  
+- Demo Video: //유튜브 링크//
+
+      </td>
+    </tr>
+  </table>
+</details>
+
+<hr/>
+
+<!-- =========================
+   4) ProjectSUZ (Planned)
+========================= -->
+<details>
+  <summary>
+    <table>
+      <tr>
+        <td width="180">
+          <img src="//여기에 커버 이미지 링크//" width="170" alt="ProjectSUZ Cover" />
+        </td>
+        <td>
+          <b>ProjectSUZ</b><br/>
+          <sub>Survival · Zombie · Multiplayer (Planned)</sub>
+        </td>
+      </tr>
+    </table>
+  </summary>
+
+  <br/>
+
+  <table>
+    <tr>
+      <td width="68%" valign="top">
+        <img src="//컨셉 이미지/티저//" width="100%" />
+      </td>
+      <td width="32%" valign="top">
+
+<img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="UE" /><br/>
+<sub><b>개발 기간</b>: 2025.12 ~ 2026.03 (예정)</sub>
+
+<br/><br/>
+
+**About**  
+UE5 기반 생존 좀비 멀티플레이. Steam OSS 기반으로 시작하고, Dedicated Server(AWS)도 검토 중.
+
+**Tags**  
+`UE5` `Multiplayer` `Survival` `Zombie`
+
+**Links**  
+- Repo: //레포 링크//
+
+      </td>
+    </tr>
+  </table>
+</details>

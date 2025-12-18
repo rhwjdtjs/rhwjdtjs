@@ -72,7 +72,7 @@
   <summary>
     <table width="100%" style="border-collapse:collapse; border:none; margin:0; padding:0;">
       <tr>
-        <td style="border:none; padding:6px 100px; width:190px;">
+        <td style="border:none; padding:6px 100px; width:1900px;">
           <img src="https://github.com/user-attachments/assets/791895ae-086b-43db-a5db-f796a298335e" width="300" alt="VeloCore Cover" />
         </td>
         <td style="border:none; padding:6px 10px;">

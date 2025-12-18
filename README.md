@@ -152,10 +152,10 @@
 ========================= -->
 <details>
   <summary>
-    <table width="100%">
+    <table width="50%">
       <tr>
         <td width="180">
-          <img src="https://github.com/user-attachments/assets/57571bfc-642c-483a-88ed-e5f59b960030" width="170" alt="Living Lonely Cover" />
+          <img src="https://github.com/user-attachments/assets/57571bfc-642c-483a-88ed-e5f59b960030" width="300" alt="Living Lonely Cover" />
         </td>
         <td>
           <b>Living Lonely -오픈월드 생존게임-</b><br/>

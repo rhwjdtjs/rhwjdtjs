@@ -210,7 +210,7 @@ Living Lonely는 오픈월드 기반 서바이벌 생존 게임으로 최대한 
           <img src="https://github.com/user-attachments/assets/d03bb8c6-6c90-4f24-ac48-ed9320d457f3" width="170" alt="Flight Fighter" />
         </td>
         <td>
-          <b>Flight Fighter -1대1 아케이드 전투기 게-</b><br/>
+          <b>Flight Fighter -1대1 아케이드 전투기 게임-</b><br/>
           <sub>멀티플레이 · 아케이드 · 전투기 시뮬레이션 · PlayFab</sub>
         </td>
       </tr>

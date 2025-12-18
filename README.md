@@ -249,7 +249,10 @@ Velocity(속도) + Core 빠른 게임 템포와 진행을 목적으로 만든 �
 | CPU | i5-8xxx 4코어 8스레드 / 3.0GHz | Ryzen 5 2xxx |
 | RAM | 8GB | 8GB 이상의 DDR5 RAM |
 | GPU | RTX 2060 6GB | RTX 3060Ti 8GB |
+      </td>
 
+
+</details>
 
 <hr/>
 

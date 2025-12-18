@@ -70,16 +70,16 @@
 ========================= -->
 <details>
   <summary>
-    <table width="100%">
+    <table width="100%" style="border-collapse:collapse; border:none; margin:0; padding:0;">
       <tr>
-        <td width="180">
+        <td style="border:none; padding:6px 10px; width:190px;">
           <img src="https://github.com/user-attachments/assets/023f87d9-a3b1-4c52-82b0-b8da880a8808" width="170" alt="VeloCore Cover" />
         </td>
-        <td>
+        <td style="border:none; padding:6px 10px;">
           <b>VeloCore -멀티플레이 하이퍼 TPS-</b><br/>
           <sub>하이퍼 TPS · 온라인 멀티플레이 · Listen Server · Steam OSS</sub>
         </td>
-        <td align="right" width="140">
+        <td style="border:none; padding:6px 10px; width:140px; text-align:right; white-space:nowrap;">
           <sub><b>자세히 보기 ▾</b></sub>
         </td>
       </tr>
@@ -231,7 +231,7 @@
         </td>
         <td>
           <b>Flight Fighter -1대1 아케이드 전투기 게임-</b><br/>
-          <sub>멀티플레이 · 아케이드 · 전투기 시뮬레이션 · PlayFab</sub>
+          <sub>멀티플레이 · 아케이드 · 전투기 시뮬레이션</sub>
         </td>
         <td align="right" width="140">
           <sub><b>자세히 보기 ▾</b></sub>

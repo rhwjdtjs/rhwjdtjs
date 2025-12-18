@@ -101,8 +101,9 @@
 <br/><br/>
 
 **About**  
-Velocity(속도) + Core 빠른 게임 템포와 진행을 목적으로 만든 하이퍼 TPS 멀티플레이 게임.  
-실시간 멀티플레이와 와이어 액션을 통해 빠른 템포의 게임플레이 제공
+VeloCore는 빠른 템포의 교전과 기동전을 중심으로 설계된 하이퍼 TPS 멀티플레이 게임입니다.  
+와이어 액션과 이동 버프로 적의 시선을 교란시키고, 유리한 각을 선점해 적을 제압하십시오.  
+끊임없이 움직이며 교전을 유지하고, 최고의 플레이를 기록해 실력을 증명하십시오.
 
 **Tags**  
 `UE5` `C++` `Replication` `RPC` `Steam OSS` `Listen Server` `Firebase`
@@ -131,16 +132,16 @@ Velocity(속도) + Core 빠른 게임 템포와 진행을 목적으로 만든 �
 <!-- =========================
    2) Living Lonely
 ========================= -->
-<details>
+<details close>
   <summary>
     <table>
       <tr>
         <td width="180">
-          <img src="//여기에 커버 이미지 링크//" width="170" alt="Living Lonely Cover" />
+          <img src="https://github.com/user-attachments/assets/023f87d9-a3b1-4c52-82b0-b8da880a8808" width="170" alt="VeloCore Cover" />
         </td>
         <td>
-          <b>Living Lonely</b><br/>
-          <sub>오픈월드 · 생존 · 싱글플레이 (Unity)</sub>
+          <b>VeloCore -멀티플레이 하이퍼 TPS-</b><br/>
+          <sub>하이퍼 TPS · 온라인 멀티플레이 · Listen Server · Steam OSS</sub>
         </td>
       </tr>
     </table>
@@ -148,67 +149,61 @@ Velocity(속도) + Core 빠른 게임 템포와 진행을 목적으로 만든 �
 
   <br/>
 
-  <!-- 스팀 상세 페이지 느낌: (좌) 미디어 2칸 / (우) 정보 패널 -->
-  <table>
-    <tr>
-      <!-- LEFT: MAIN MEDIA (위 1칸 / 아래 1칸) -->
-      <td width="68%" valign="top">
+  <!-- 스팀 상세 페이지 느낌: (좌) 미디어 + 썸네일 / (우) 정보 패널 -->
+<table>
+  <tr>
+      <!-- LEFT: MAIN MEDIA -->
+     <td width="68%" valign="top">
 
-        <!-- 1) 위: 메인 미디어(GIF/이미지) -->
-  <a href="//메인 영상 링크//">
-          <img src="//메인 미디어(GIF/썸네일) 직접링크//" width="100%" alt="Living Lonely Main Media" />
-        </a>
+<!-- 메인 영상/이미지 -->
+<a href="https://www.youtube.com/watch?v=qtte7avW9yM">
+  <img src="https://github.com/user-attachments/assets/dc8f0c5f-e9a6-4b98-a604-51ba81e3ab8e" width="100%" alt="Living Lonely Main Video" />
+</a>
 
-        <br/><br/>
+<br/><br/>
 
-        <!-- 2) 아래: 추가 미디어(스크린샷 or 두번째 GIF) -->
-  <a href="//추가 미디어가 연결될 링크(옵션: 동일 유튜브 링크)//">
-          <img src="//추가 미디어 이미지/GIF 직접링크//" width="100%" alt="Living Lonely Feature Media" />
-        </a>
+  <!-- 2) 아래: 한 칸 더 (스크린샷 or 두번째 GIF) -->
+  <a href="https://www.youtube.com/watch?v=qtte7avW9yM">
+    <img src="https://github.com/user-attachments/assets/98bf39fc-48ec-4d3a-a02c-4ff46c599bda"
+         width="100%"
+         alt="LivingLonely Screenshot / Feature" />
+  </a>
+</td>
+<!-- RIGHT: INFO PANEL -->
+<td width="32%" valign="top">
 
-   </td>
+<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" /><br/>
+<sub><b>개발 기간</b>: 2023.03 ~ 2023.06 · <b>인원</b>: 1인</sub>
 
-      <!-- RIGHT: INFO PANEL -->
-   <td width="32%" valign="top">
-    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" alt="Unity" /><br/>
-        <sub><b>개발 기간</b>: 2023.03 ~ 2023.06 · <b>인원</b>: //기입//</sub>
-    <br/><br/>
+<br/><br/>
 
-   <b>About</b><br/>
-        //준비중//<br/>
-       //준비중//<br/>
-        //준비중//
+**About**  
+Living Lonely는 오픈월드 기반 서바이벌 생존 게임으로 최대한 오래 살아남는 것이 목표인 게임입니다.  
+시간이 지날수록 적의 속도와 데미지는 커지고 새로운 적이 등장합니다.  
+최대한 오래 살아남아 랭킹을 기록하여 다른 플레이어와 경쟁하십시오.
 
-   <br/><br/>
+**Tags**  
+`UE5` `C++` `Replication` `RPC` `Steam OSS` `Listen Server` `Firebase`
 
-   <b>Tags</b><br/>
-   <code>Unity</code> <code>Survival</code> <code>Open World</code> <code>Single Player</code> <code>Crafting</code> <code>Exploration</code>
+**Links**  
+<a href="https://github.com/rhwjdtjs/UE5_Port"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repo" /></a>
 
-  <br/><br/>
-
-  <b>Links</b><br/>
-        <a href="//레포 링크//">
-          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repo" />
-        </a>
-        <br/>
-        <a href="//데모 영상 링크//">
-          <img src="https://img.shields.io/badge/YouTube-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" alt="YouTube Demo" />
-        </a>
-
-   <br/><br/>
-
-  <b>Facts</b><br/>
-        <ul>
-          <li>Engine: Unity //버전//</li>
-          <li>IDE/OS: //예: Rider or VS / Windows//</li>
-          <li>Platform: PC</li>
-        </ul>
-
-   </td>
-   </tr>
+**Facts**  
+- Engine: UNITY 2021.3.0F1  
+- IDE/OS: VS 2021 / Windows 11  
+- DB: PlayFab DB
+  
+| 구분 | 최소 | 권장 |
+|---|---|---|
+| OS | Windows 10/11 | Windows 11 |
+| CPU | i5-6xxx 4코어 8스레드 / 3.0GHz | I5-10xxx |
+| RAM | 4GB | 8GB 이상의 DDR4 RAM |
+| GPU | GTX 1050 3GB | RTX 2060 6GB |
+</td>
+ </tr>
   </table>
+  <br/>
 </details>
-
 <hr/>
 
 <!-- =========================

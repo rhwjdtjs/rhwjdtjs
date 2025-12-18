@@ -178,7 +178,7 @@
   </tr>
 </table>
 
-# 🎮 My Projects (Steam-style)
+# 🎮 Games(My Projects)
 
 <!-- =========================
    1) VeloCore
@@ -188,10 +188,10 @@
     <table>
       <tr>
         <td width="180">
-          <img src="//여기에 커버 이미지 링크//" width="170" alt="VeloCore Cover" />
+          <img src="<img width="1536" height="415" alt="Image" src="https://github.com/user-attachments/assets/023f87d9-a3b1-4c52-82b0-b8da880a8808" />" width="170" alt="VeloCore Cover" />
         </td>
         <td>
-          <b>VeloCore</b><br/>
+          <b>VeloCore -멀티플레이 하이퍼 TPS-</b><br/>
           <sub>하이퍼 TPS · 온라인 멀티플레이 · Listen Server · Steam OSS</sub>
         </td>
       </tr>

@@ -207,8 +207,8 @@
       <td width="68%" valign="top">
 
 <!-- 메인 영상/이미지 -->
-<a href="//여기에 메인 영상 링크(유튜브)//">
-  <img src="//여기에 메인 미디어(영상 썸네일/GIF) 링크//" width="100%" alt="VeloCore Main Media" />
+<a href="https://youtu.be/35-OI47LQC0?si=yicrmtejmbiw0PuG">
+  <img src=https://github.com/user-attachments/assets/ddb94d59-1a38-4fc9-b757-d888445da67f" width="100%" alt="VeloCore Main Video" />
 </a>
 
 <!-- 썸네일 라인(스팀처럼) -->
@@ -219,11 +219,9 @@
   <a href="//썸네일4_링크//"><img src="//썸네일이미지4//" width="19%" /></a>
   <a href="//썸네일5_링크//"><img src="//썸네일이미지5//" width="19%" /></a>
 </p>
-
-      </td>
-
-      <!-- RIGHT: INFO PANEL -->
-      <td width="32%" valign="top">
+</td>
+<!-- RIGHT: INFO PANEL -->
+<td width="32%" valign="top">
 
 <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="UE" /><br/>
 <sub><b>개발 기간</b>: 2025.05 ~ 2025.10 · <b>인원</b>: 1인</sub>
@@ -256,15 +254,6 @@ Velocity(속도) + Core. 빠른 이동/반응을 핵심으로 한 하이퍼 TPS 
 
   <!-- 스팀 상세페이지 아래 섹션 느낌 -->
   <details>
-    <summary><b>✅ Key Features</b></summary>
-
-- **Combat**: 서버 판정 기반 사격/피격(RPC + Replication), 무기 교체/재장전/수류탄  
-- **Wire**: 서버 트레이스 판정 → 성공/실패 분기 → 전원 연출 동기화(Multicast)  
-- **Buff/Pickup**: 체력/실드/이속/점프 버프 및 HUD OnRep 동기화  
-- **Session**: Steam OSS 기반 세션 생성/탐색/조인(리스닝 서버)
-  </details>
-
-  <details>
     <summary><b>🧾 System Requirements (선택)</b></summary>
 
 | 구분 | 최소 | 권장 |
@@ -275,13 +264,6 @@ Velocity(속도) + Core. 빠른 이동/반응을 핵심으로 한 하이퍼 TPS 
 | GPU | //기입// | //기입// |
   </details>
 
-  <details>
-    <summary><b>📘 Technical Notes (선택)</b></summary>
-
-- 구조: `Character + Component(Combat/Wire/Buff)` 모듈화  
-- 네트워크: Client Input → Server RPC → 상태 갱신 → Multicast/OnRep로 동기화  
-- UI: HUD/Overlay를 PlayerController/HUD에서 중앙 관리
-  </details>
 
 </details>
 

@@ -229,41 +229,31 @@
 <br/><br/>
 
 **About**  
-Velocity(속도) + Core. 빠른 이동/반응을 핵심으로 한 하이퍼 TPS 멀티플레이 게임.  
-와이어 액션과 이동 버프를 통해 “템포가 계속 유지되는 전투”를 목표로 설계.
+Velocity(속도) + Core 빠른 게임 템포와 진행을 목적으로 만든 하이퍼 TPS 멀티플레이 게임.  
+실시간 멀티플레이와 와이어 액션을 통해 빠른 템포의 게임플레이 제공
 
 **Tags**  
 `UE5` `C++` `Replication` `RPC` `Steam OSS` `Listen Server` `Firebase`
 
 **Links**  
-- Repo: //레포 링크//  
-- Final Test(10P): //유튜브 링크//  
-- Alpha Test(3P): //유튜브 링크//  
-- Feature Video: //유튜브 링크//
+- Repo: <a href="https://github.com/rhwjdtjs/UE5_Port"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repo" /></a>
 
 **Facts**  
 - Engine: UE 5.5.4  
 - IDE/OS: VS 2022 / Windows 11  
 - Data: Firebase Realtime DB
-
+- 
+| 구분 | 최소 | 권장 |
+|---|---|---|
+| OS | Windows 10/11 | Windows 11 |
+| CPU | i5-8xxx 4코어 8스레드 / 3.0GHz | Ryzen 5 2xxx |
+| RAM | 8GB | 8GB 이상의 DDR5 RAM |
+| GPU | RTX 2060 6GB | RTX 3060Ti 8GB |
       </td>
     </tr>
   </table>
 
   <br/>
-
-  <!-- 스팀 상세페이지 아래 섹션 느낌 -->
-  <details>
-    <summary><b>🧾 System Requirements (선택)</b></summary>
-
-| 구분 | 최소 | 권장 |
-|---|---|---|
-| OS | Windows 10/11 | Windows 11 |
-| CPU | //기입// | //기입// |
-| RAM | //기입// | //기입// |
-| GPU | //기입// | //기입// |
-  </details>
-
 
 </details>
 

@@ -90,7 +90,7 @@
 
   <table>
     <tr>
-      <td width="30%" valign="top">
+      <td width="120%" valign="top">
         <a href="https://youtu.be/35-OI47LQC0?si=yicrmtejmbiw0PuG">
           <img src="https://github.com/user-attachments/assets/ddb94d59-1a38-4fc9-b757-d888445da67f" width="100%" alt="VeloCore Main Video" />
         </a>
@@ -101,7 +101,7 @@
           <img src="https://github.com/user-attachments/assets/c920e36b-c376-4bc1-9eaa-4864cced54f3" width="100%" alt="VeloCore Screenshot / Feature" />
         </a>
       </td>
-  <td width="32%" valign="top">
+  <td width="20%" valign="top">
         <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="UE" /><br/>
         <sub><b>개발 기간</b>: 2025.05 ~ 2025.10 · <b>인원</b>: 1인</sub>
 

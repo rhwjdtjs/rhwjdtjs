@@ -211,14 +211,14 @@
   <img src="https://github.com/user-attachments/assets/ddb94d59-1a38-4fc9-b757-d888445da67f" width="100%" alt="VeloCore Main Video" />
 </a>
 
-<!-- 썸네일 라인(스팀처럼) -->
-<p>
-  <a href="//썸네일1_링크//"><img src="//썸네일이미지1//" width="19%" /></a>
-  <a href="//썸네일2_링크//"><img src="//썸네일이미지2//" width="19%" /></a>
-  <a href="//썸네일3_링크//"><img src="//썸네일이미지3//" width="19%" /></a>
-  <a href="//썸네일4_링크//"><img src="//썸네일이미지4//" width="19%" /></a>
-  <a href="//썸네일5_링크//"><img src="//썸네일이미지5//" width="19%" /></a>
-</p>
+<br/><br/>
+
+  <!-- 2) 아래: 한 칸 더 (스크린샷 or 두번째 GIF) -->
+  <a href="https://youtu.be/35-OI47LQC0?si=yicrmtejmbiw0PuG">
+    <img src="https://github.com/user-attachments/assets/c920e36b-c376-4bc1-9eaa-4864cced54f3"
+         width="100%"
+         alt="VeloCore Screenshot / Feature" />
+  </a>
 </td>
 <!-- RIGHT: INFO PANEL -->
 <td width="32%" valign="top">

@@ -148,39 +148,64 @@ Velocity(속도) + Core 빠른 게임 템포와 진행을 목적으로 만든 �
 
   <br/>
 
+  <!-- 스팀 상세 페이지 느낌: (좌) 미디어 2칸 / (우) 정보 패널 -->
   <table>
     <tr>
+      <!-- LEFT: MAIN MEDIA (위 1칸 / 아래 1칸) -->
       <td width="68%" valign="top">
-        <a href="//메인 영상 링크//">
-          <img src="//메인 미디어(썸네일/GIF)//" width="100%" />
+
+        <!-- 1) 위: 메인 미디어(GIF/이미지) -->
+  <a href="//메인 영상 링크//">
+          <img src="//메인 미디어(GIF/썸네일) 직접링크//" width="100%" alt="Living Lonely Main Media" />
         </a>
-        <p>
-          <a href="//썸네일1_링크//"><img src="//썸네일1//" width="19%" /></a>
-          <a href="//썸네일2_링크//"><img src="//썸네일2//" width="19%" /></a>
-          <a href="//썸네일3_링크//"><img src="//썸네일3//" width="19%" /></a>
-          <a href="//썸네일4_링크//"><img src="//썸네일4//" width="19%" /></a>
-          <a href="//썸네일5_링크//"><img src="//썸네일5//" width="19%" /></a>
-        </p>
-      </td>
-      <td width="32%" valign="top">
 
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" alt="Unity" /><br/>
-<sub><b>개발 기간</b>: 2023.03 ~ 2023.06</sub>
+        <br/><br/>
 
-<br/><br/>
+        <!-- 2) 아래: 추가 미디어(스크린샷 or 두번째 GIF) -->
+  <a href="//추가 미디어가 연결될 링크(옵션: 동일 유튜브 링크)//">
+          <img src="//추가 미디어 이미지/GIF 직접링크//" width="100%" alt="Living Lonely Feature Media" />
+        </a>
 
-**About**  
-//한 줄 컨셉 + 핵심 재미 2줄//
+   </td>
 
-**Tags**  
-`Unity` `Survival` `Open World` `Single Player`
+      <!-- RIGHT: INFO PANEL -->
+   <td width="32%" valign="top">
+    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" alt="Unity" /><br/>
+        <sub><b>개발 기간</b>: 2023.03 ~ 2023.06 · <b>인원</b>: //기입//</sub>
+    <br/><br/>
 
-**Links**  
-- Repo: //레포 링크//  
-- Demo Video: //유튜브 링크//
+   <b>About</b><br/>
+        //한 줄 컨셉(무드/목표)//<br/>
+        //핵심 재미 1: 예) 자원 수집/제작/기지 확장//<br/>
+        //핵심 재미 2: 예) 위협 요소(허기/날씨/야간)/탐험 루프//
 
-      </td>
-    </tr>
+   <br/><br/>
+
+   <b>Tags</b><br/>
+   <code>Unity</code> <code>Survival</code> <code>Open World</code> <code>Single Player</code> <code>Crafting</code> <code>Exploration</code>
+
+  <br/><br/>
+
+  <b>Links</b><br/>
+        <a href="//레포 링크//">
+          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repo" />
+        </a>
+        <br/>
+        <a href="//데모 영상 링크//">
+          <img src="https://img.shields.io/badge/YouTube-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" alt="YouTube Demo" />
+        </a>
+
+   <br/><br/>
+
+  <b>Facts</b><br/>
+        <ul>
+          <li>Engine: Unity //버전//</li>
+          <li>IDE/OS: //예: Rider or VS / Windows//</li>
+          <li>Platform: PC</li>
+        </ul>
+
+   </td>
+   </tr>
   </table>
 </details>
 

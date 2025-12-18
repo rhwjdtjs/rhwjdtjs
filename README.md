@@ -208,7 +208,7 @@
 
 <!-- 메인 영상/이미지 -->
 <a href="https://youtu.be/35-OI47LQC0?si=yicrmtejmbiw0PuG">
-  <img src=https://github.com/user-attachments/assets/ddb94d59-1a38-4fc9-b757-d888445da67f" width="100%" alt="VeloCore Main Video" />
+  <img src="https://github.com/user-attachments/assets/ddb94d59-1a38-4fc9-b757-d888445da67f" width="100%" alt="VeloCore Main Video" />
 </a>
 
 <!-- 썸네일 라인(스팀처럼) -->

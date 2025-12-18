@@ -155,7 +155,7 @@
     <table width="100%">
       <tr>
         <td width="180">
-          <img src="https://github.com/user-attachments/assets/86144b98-7034-47a3-92d9-eb012de8dcf7" width="170" alt="Living Lonely Cover" />
+          <img src="https://github.com/user-attachments/assets/57571bfc-642c-483a-88ed-e5f59b960030" width="170" alt="Living Lonely Cover" />
         </td>
         <td>
           <b>Living Lonely -오픈월드 생존게임-</b><br/>
@@ -227,7 +227,7 @@
     <table width="100%">
       <tr>
         <td width="180">
-          <img src="https://github.com/user-attachments/assets/d03bb8c6-6c90-4f24-ac48-ed9320d457f3" width="170" alt="Flight Fighter Cover" />
+          <img src="https://github.com/user-attachments/assets/9ae2af30-d2b2-4969-807d-24a39cffc562" width="170" alt="Flight Fighter Cover" />
         </td>
         <td>
           <b>Flight Fighter -1대1 아케이드 전투기 게임-</b><br/>
@@ -296,7 +296,7 @@
     <table width="100%">
       <tr>
         <td width="180">
-          <img src="https://github.com/user-attachments/assets/c5cc2d7c-4d7a-4372-a423-ff5fc979d8a1" width="170" alt="Project SUZ Cover" />
+          <img src="https://github.com/user-attachments/assets/1a9705de-c3a2-4da1-b7f3-cdd862d8f19e" width="170" alt="Project SUZ Cover" />
         </td>
         <td>
           <b>Project SUZ(개발준비중) -오픈월드 멀티플레이 생존게임-</b><br/>

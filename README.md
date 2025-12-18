@@ -192,6 +192,7 @@ Living Lonely는 오픈월드 기반 서바이벌 생존 게임으로 최대한 
 - Engine: UNITY 2021.3.0F1  
 - IDE/OS: VS 2021 / Windows 11  
 - DB: PlayFab DB
+- Repo 다시 준비중
   
 | 구분 | 최소 | 권장 |
 |---|---|---|
@@ -256,7 +257,7 @@ Living Lonely는 오픈월드 기반 서바이벌 생존 게임으로 최대한 
 
 **About**  
 Flight Fighter는 간단한 1대1 아케이드 게임입니다. 각자 전투기를 몰아 친구와 함께 가볍게 게임을 즐겨보십시오.!
-
+- Repo 다시 준비중  
 **Tags**  
 `Unity` `C#` `Photon Network`
 
@@ -288,11 +289,11 @@ Flight Fighter는 간단한 1대1 아케이드 게임입니다. 각자 전투기
     <table>
       <tr>
         <td width="180">
-          <img src="Insert Link" width="170" alt="커버 이미지 준비중" />
+          <img src="https://github.com/user-attachments/assets/c5cc2d7c-4d7a-4372-a423-ff5fc979d8a1" width="170" alt="커버 이미지 준비중" />
         </td>
         <td>
-          <b>Project SUZ -오픈월드 멀티플레이 생존게임-</b><br/>
-          <sub>TPS · 온라인 멀티플레이 · Listen Server · Steam OSS</sub>
+          <b>Project SUZ(개발준비중) -오픈월드 멀티플레이 생존게임-</b><br/>
+          <sub>오픈월드 · 온라인 멀티플레이 · TPS · 생존게임 · Listen Server · Steam OSS</sub>
         </td>
       </tr>
     </table>

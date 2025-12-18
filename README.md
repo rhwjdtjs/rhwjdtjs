@@ -85,52 +85,39 @@
       </tr>
     </table>
   </summary>
-
   <br/>
-
   <table>
     <tr>
-      <td width="66%" valign="top">
+      <td width="100%" valign="top">
         <a href="https://youtu.be/35-OI47LQC0?si=yicrmtejmbiw0PuG">
           <img src="https://github.com/user-attachments/assets/ddb94d59-1a38-4fc9-b757-d888445da67f" width="100%" alt="VeloCore Main Video" />
         </a>
-
  <br/><br/>
-
  <a href="https://youtu.be/35-OI47LQC0?si=yicrmtejmbiw0PuG">
           <img src="https://github.com/user-attachments/assets/c920e36b-c376-4bc1-9eaa-4864cced54f3" width="100%" alt="VeloCore Screenshot / Feature" />
         </a>
       </td>
-  <td width="66%" valign="top">
+  <td width="100%" valign="top">
         <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="UE" /><br/>
         <sub><b>개발 기간</b>: 2025.05 ~ 2025.10 · <b>인원</b>: 1인</sub>
-
   <br/><br/>
-
   <b>About</b><br/>
         VeloCore는 빠른 템포의 교전과 기동전을 중심으로 설계된 하이퍼 TPS 멀티플레이 게임입니다.<br/>
         와이어 액션과 이동 버프로 적의 시선을 교란시키고, 유리한 각을 선점해 적을 제압하십시오.<br/>
         끊임없이 움직이며 교전을 유지하고, 최고의 플레이를 기록해 실력을 증명하십시오.
-
   <br/><br/>
-
   <b>Tags</b><br/>
         <code>UE5</code> <code>C++</code> <code>Replication</code> <code>RPC</code> <code>Steam OSS</code> <code>Listen Server</code> <code>Firebase</code>
-
   <br/><br/>
-
   <b>Links</b><br/>
         <a href="https://github.com/rhwjdtjs/UE5_Port">
           <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repo" />
         </a>
-
   <br/><br/>
-
   <b>Facts</b><br/>
         - Engine: UE 5.5.4<br/>
         - IDE/OS: VS 2022 / Windows 11<br/>
         - DB: Firebase Realtime DB
-
    <br/><br/>
     <table>
           <tr><th>구분</th><th>최소</th><th>권장</th></tr>
@@ -142,7 +129,6 @@
       </td>
     </tr>
   </table>
-
   <br/>
 </details>
 <hr/>

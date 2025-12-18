@@ -188,7 +188,7 @@
     <table>
       <tr>
         <td width="180">
-          <img src="https://github.com/user-attachments/assets/023f87d9-a3b1-4c52-82b0-b8da880a8808" />" width="170" alt="VeloCore Cover" />
+          <img src="https://github.com/user-attachments/assets/023f87d9-a3b1-4c52-82b0-b8da880a8808" width="170" alt="VeloCore Cover" />
         </td>
         <td>
           <b>VeloCore -멀티플레이 하이퍼 TPS-</b><br/>

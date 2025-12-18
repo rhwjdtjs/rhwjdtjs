@@ -137,7 +137,7 @@ VeloCore는 빠른 템포의 교전과 기동전을 중심으로 설계된 하�
     <table>
       <tr>
         <td width="180">
-          <img src="https://github.com/user-attachments/assets/023f87d9-a3b1-4c52-82b0-b8da880a8808" width="170" alt="VeloCore Cover" />
+          <img src="https://github.com/user-attachments/assets/f72d947e-b3e7-4a29-aa93-de546996c467" width="170" alt="VeloCore Cover" />
         </td>
         <td>
           <b>Living Lonely -오픈월드 생존게임-</b><br/>
@@ -331,27 +331,27 @@ Living Lonely는 오픈월드 기반 서바이벌 생존 게임으로 최대한 
 
 <br/><br/>
 
-**About** ore는 빠른 템포의 교전과 기동전을 중심으로 설계된 하이퍼 TPS 멀티플레이 게임입니다.  
-와이어 액션과 이동 버프로 적의 시선을 교란시키고, 유리한 각을 선점해 적을 제압하십시오.  
-끊임없이 움직이며 교전을 유지하고, 최고의 플레이를 기록해 실력을 증명하십시오.
+**About**
+PROJECT SUV 는 낙원 라이크 게임으로 개발 예정이며 포스트 아포칼립스 세계에서 각 플레이어들이 아이템을 
+파밍하며 각 플레이어 및 좀비로 부터 생존해나가는 게임입니다.
 
 **Tags**  
-`UE5` `C++` `Replication` `RPC` `Steam OSS` `Listen Server` `Firebase`
+`UE5` `C++` `Replication` `RPC` `Steam OSS` `Listen Server` `PlayFab`
 
 **Links**  
-<a href="https://github.com/rhwjdtjs/UE5_Port"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repo" /></a>
+<a href="레포링크"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="레포링크 준비중" /></a>
 
 **Facts**  
-- Engine: UE 5.5.4  
-- IDE/OS: VS 2022 / Windows 11  
-- DB: Firebase Realtime DB
+- Engine: UE 5.7.1  
+- IDE/OS: VS 2026 Insider / Windows 11  
+- DB: PlayFab DB
   
 | 구분 | 최소 | 권장 |
 |---|---|---|
-| OS | Windows 10/11 | Windows 11 |
-| CPU | i5-8xxx 4코어 8스레드 / 3.0GHz | Ryzen 5 2xxx |
-| RAM | 8GB | 8GB 이상의 DDR5 RAM |
-| GPU | RTX 2060 6GB | RTX 3060Ti 8GB |
+| OS | Windows 11 | Windows 11 |
+| CPU | i5-13xxx 6코어 12스레드 / 3.0GHz | Ryzen 5 7xxx |
+| RAM | 8GB | 16GB 이상의 DDR5 RAM |
+| GPU | RTX 3060 8GB | RTX 3060Ti 8GB |
 </td>
  </tr>
   </table>

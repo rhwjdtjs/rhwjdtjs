@@ -201,10 +201,10 @@
   <br/>
 
   <!-- 스팀 상세 페이지 느낌: (좌) 미디어 + 썸네일 / (우) 정보 패널 -->
-  <table>
-    <tr>
+<table>
+  <tr>
       <!-- LEFT: MAIN MEDIA -->
-      <td width="68%" valign="top">
+     <td width="68%" valign="top">
 
 <!-- 메인 영상/이미지 -->
 <a href="https://youtu.be/35-OI47LQC0?si=yicrmtejmbiw0PuG">

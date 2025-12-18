@@ -70,7 +70,7 @@
 ========================= -->
 <details>
   <summary>
-    <table width="1100%" style="border-collapse:collapse; border:none; margin:0; padding:0;">
+    <table width="50%" style="border-collapse:collapse; border:none; margin:0; padding:0;">
       <tr>
         <td style="border:none; padding:6px 100px; width:1900px;">
           <img src="https://github.com/user-attachments/assets/791895ae-086b-43db-a5db-f796a298335e" width="150" alt="VeloCore Cover" />

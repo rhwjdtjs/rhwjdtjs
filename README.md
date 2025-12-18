@@ -137,7 +137,7 @@ VeloCore는 빠른 템포의 교전과 기동전을 중심으로 설계된 하�
     <table>
       <tr>
         <td width="180">
-          <img src="https://github.com/user-attachments/assets/f72d947e-b3e7-4a29-aa93-de546996c467" width="170" alt="VeloCore Cover" />
+          <img src="https://github.com/user-attachments/assets/86144b98-7034-47a3-92d9-eb012de8dcf7" width="170" alt="VeloCore Cover" />
         </td>
         <td>
           <b>Living Lonely -오픈월드 생존게임-</b><br/>

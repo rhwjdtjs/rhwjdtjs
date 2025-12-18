@@ -178,53 +178,26 @@
   </tr>
 </table>
 
-# ⚡ My Projects
-> Unreal Engine / Unity 프로젝트 모음 (영상·설명·기술서 링크 포함)
-
-<details open>
-  <summary><b>✅ 2025.05 ~ 2025.10 | VeloCore (UE5 Hyper TPS Multiplayer)</b></summary>
-
-  <!-- HERO -->
-  <p align="center">
-    <img src="YOUR_VELOCORE_BANNER_URL" alt="VeloCore Banner" width="1000" />
-  </p>
-
-  <!-- STORE-LIKE LAYOUT -->
-  <table>
-    <tr>
-      <td width="66%" valign="top">
-
-<!-- MAIN VIDEO -->
-<p>
-  <a href="https://youtu.be/35-OI47LQC0?si=CwRU1Od1r-Pb0UYe">
-    <img src="YOUR_VELOCORE_MAIN_MEDIA_URL" alt="VeloCore Final Test (10 Players)" width="100%" />
-  </a>
-</p>
-
-<!-- THUMBNAILS (FAKE CAROUSEL) -->
-<p>
-  <a href="https://www.youtube.com/watch?v=WeMqVnDT7_Y&t=1s"><img src="YOUR_THUMB_1" width="24%"/></a>
-  <a href="https://youtu.be/35-OI47LQC0?si=CwRU1Od1r-Pb0UYe"><img src="YOUR_THUMB_2" width="24%"/></a>
-  <a href="https://www.youtube.com/watch?v=pTvCdJSy_EI&t=1s"><img src="YOUR_THUMB_3" width="24%"/></a>
-  <a href="https://github.com/rhwjdtjs/UE5_Port"><img src="YOUR_THUMB_4" width="24%"/></a>
-</p>
-
-      </td>
-      <td width="34%" valign="top">
-# ⚡ My Projects
-> 이미지/제목/장르 클릭 시 해당 Repository로 이동
+# ⚡ My Projects  
+> 이미지/제목 클릭 시 해당 Repository로 이동  
 
 <table>
   <!-- 1) VeloCore -->
   <tr>
     <td width="260">
       <a href="https://github.com/rhwjdtjs/UE5_Port">
-        <img src="YOUR_VELOCORE_COVER_URL" width="250" alt="VeloCore Cover" />
+        <img src="//여기에 이미지 링크 넣어주세요//" width="250" alt="VeloCore Cover" />
       </a>
     </td>
+
     <td>
       <a href="https://github.com/rhwjdtjs/UE5_Port"><b>VeloCore</b></a><br/>
-      <a href="https://github.com/rhwjdtjs/UE5_Port">Hyper TPS · Multiplayer · Listen Server · Steam OSS</a>
+      하이퍼 TPS · 멀티플레이 · Listen Server · Steam OSS
+    </td>
+
+    <td width="220" align="right" valign="top">
+      <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="Unreal Engine" /><br/>
+      <sub>개발 기간: 2025.05 ~ 2025.10</sub>
     </td>
   </tr>
 
@@ -232,12 +205,18 @@
   <tr>
     <td width="260">
       <a href="https://github.com/rhwjdtjs/Unity_Living_Lonely">
-        <img src="YOUR_LIVING_LONELY_COVER_URL" width="250" alt="Living Lonely Cover" />
+        <img src="//여기에 이미지 링크 넣어주세요//" width="250" alt="Living Lonely Cover" />
       </a>
     </td>
+
     <td>
       <a href="https://github.com/rhwjdtjs/Unity_Living_Lonely"><b>Living Lonely</b></a><br/>
-      <a href="https://github.com/rhwjdtjs/Unity_Living_Lonely">Open World · Survival · Single Player (Unity)</a>
+      오픈월드 · 생존 · 싱글플레이 (Unity)
+    </td>
+
+    <td width="220" align="right" valign="top">
+      <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" alt="Unity" /><br/>
+      <sub>개발 기간: 2023.03 ~ 2023.06</sub>
     </td>
   </tr>
 
@@ -245,12 +224,18 @@
   <tr>
     <td width="260">
       <a href="https://github.com/rhwjdtjs/Unity_Flight_Fighter">
-        <img src="YOUR_FLIGHT_FIGHTER_COVER_URL" width="250" alt="Flight Fighter Cover" />
+        <img src="//여기에 이미지 링크 넣어주세요//" width="250" alt="Flight Fighter Cover" />
       </a>
     </td>
+
     <td>
       <a href="https://github.com/rhwjdtjs/Unity_Flight_Fighter"><b>Flight Fighter</b></a><br/>
-      <a href="https://github.com/rhwjdtjs/Unity_Flight_Fighter">1v1 · Photon Network · Action (Unity)</a>
+      1v1 · Photon Network · Action (Unity)
+    </td>
+
+    <td width="220" align="right" valign="top">
+      <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" alt="Unity" /><br/>
+      <sub>개발 기간: 2022.04 ~ 2022.06</sub>
     </td>
   </tr>
 
@@ -258,12 +243,18 @@
   <tr>
     <td width="260">
       <a href="https://github.com/rhwjdtjs/UE5_PORT2">
-        <img src="YOUR_PROJECTSUZ_COVER_URL" width="250" alt="ProjectSUZ Cover" />
+        <img src="//여기에 이미지 링크 넣어주세요//" width="250" alt="ProjectSUZ Cover" />
       </a>
     </td>
+
     <td>
       <a href="https://github.com/rhwjdtjs/UE5_PORT2"><b>ProjectSUZ</b></a><br/>
-      <a href="https://github.com/rhwjdtjs/UE5_PORT2">Survival · Zombie · Multiplayer (UE5) · (Planned)</a>
+      Survival · Zombie · Multiplayer (Planned)
+    </td>
+
+    <td width="220" align="right" valign="top">
+      <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="Unreal Engine" /><br/>
+      <sub>개발 기간: 2025.12 ~ 2026.03 (예정)</sub>
     </td>
   </tr>
 </table>

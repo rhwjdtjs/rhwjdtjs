@@ -11,7 +11,7 @@
             <a href="https://open.kakao.com/o/sMbId73h">
               <img
                 src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"
-                width="150"
+                width="100"
                 alt="kakaotalk"
               />
             </a>
@@ -30,7 +30,7 @@
             <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aaasoft3@gmail.com&su=안녕하세요">
               <img
                 src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
-                width="150"
+                width="100"
                 alt="Gmail"
               />
             </a>
@@ -49,7 +49,7 @@
             <a href="https://jeongseondevlog.tistory.com/">
               <img
                 src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"
-                width="150"
+                width="100"
                 alt="tistory"
               />
             </a>

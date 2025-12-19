@@ -170,7 +170,6 @@
         - Engine: UNITY 2021.3.0F1<br/>
         - IDE/OS: VS 2021 / Windows 11<br/>
         - DB: PlayFab DB<br/>
-        - Repo 다시 준비중
         <br/><br/>
         <table>
           <tr><th>구분</th><th>최소</th><th>권장</th></tr>
@@ -221,7 +220,6 @@
         <br/><br/>
         <b>About</b><br/>
         Flight Fighter는 간단한 1대1 아케이드 게임입니다. 각자 전투기를 몰아 친구와 함께 가볍게 게임을 즐겨보십시오.<br/>
-        - Repo 다시 준비중
         <br/><br/>
         <b>Tags</b><br/>
         <code>Unity</code> <code>C#</code> <code>Photon Network</code>

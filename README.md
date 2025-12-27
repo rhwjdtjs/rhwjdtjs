@@ -126,7 +126,7 @@
           <img src="https://github.com/user-attachments/assets/1a9705de-c3a2-4da1-b7f3-cdd862d8f19e" width="150" alt="VeloCore Cover" />
         </td>
         <td style="border:none; padding:6px 10px;">
-          <b>Project SZ -오픈월드 멀티플레이 생존게임-</b><br/>
+          <b>(개발준비중 01.05 시작)Project SZ -오픈월드 멀티플레이 생존게임-</b><br/>
           <sub>오픈월드 · 온라인 멀티플레이 · CO-OP · TPS · 생존게임 · Listen Server · Steam OSS</sub>
         </td>
         </td>
@@ -141,11 +141,11 @@
     <tr>
       <td width="68%" valign="top">
         <a href="유튜브링크_기입">
-          <img src="이미지_URL_기입" width="100%" alt="Project SUZ Main Media" />
+          <img src="이미지_URL_기입" width="100%" alt="이미지 준비중" />
         </a>
         <br/><br/>
         <a href="유튜브링크_기입">
-          <img src="이미지_URL_기입" width="100%" alt="Project SUZ Screenshot / Feature" />
+          <img src="이미지_URL_기입" width="100%" alt="이미지 준비중" />
         </a>
       </td>
       <td width="32%" valign="top">

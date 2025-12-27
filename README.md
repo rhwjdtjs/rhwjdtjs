@@ -123,6 +123,71 @@
     <table width="100%" style="border-collapse:collapse; border:none; margin:0; padding:0;">
       <tr>
         <td style="border:none; padding:6px 10px; width:190px;">
+          <img src="https://github.com/user-attachments/assets/1a9705de-c3a2-4da1-b7f3-cdd862d8f19e" width="150" alt="VeloCore Cover" />
+        </td>
+        <td style="border:none; padding:6px 10px;">
+          <b>Project SZ -오픈월드 멀티플레이 생존게임-</b><br/>
+          <sub>오픈월드 · 온라인 멀티플레이 · CO-OP · TPS · 생존게임 · Listen Server · Steam OSS</sub>
+        </td>
+        </td>
+        <td style="border:none; padding:6px 10px; width:140px; text-align:right; white-space:nowrap;">
+          <sub><b>자세히 보기 ▾</b></sub>
+        </td>
+      </tr>
+    </table>
+  </summary>
+  <br/>
+  <table>
+    <tr>
+      <td width="68%" valign="top">
+        <a href="유튜브링크_기입">
+          <img src="이미지_URL_기입" width="100%" alt="Project SUZ Main Media" />
+        </a>
+        <br/><br/>
+        <a href="유튜브링크_기입">
+          <img src="이미지_URL_기입" width="100%" alt="Project SUZ Screenshot / Feature" />
+        </a>
+      </td>
+      <td width="32%" valign="top">
+        <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="UE" /><br/>
+        <sub><b>개발 기간</b>: 2026.01 ~ 2026.06 · <b>인원</b>: 2인</sub>
+        <br/><br/>
+        <b>About</b><br/>
+        PROJECT SZ는 출시를 목표로 개발 예정이며 포스트 아포칼립스 세계에서 각 플레이어들이 아이템을 파밍하며<br/>
+        좀비로부터 생존하여 탈출을 목표로 하는 게임입니다.
+        <br/><br/>
+        <b>Tags</b><br/>
+        <code>UE5</code> <code>C++</code> <code>Replication</code> <code>RPC</code> <code>Steam OSS</code> <code>Listen Server</code> <code>PlayFab</code>
+        <br/><br/>
+        <b>Links</b><br/>
+        <a href="레포링크_기입">
+          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repo" />
+        </a>
+        <br/><br/>
+        <b>Facts</b><br/>
+        - Engine: UE 5.7.1<br/>
+        - IDE/OS: VS 2026 Insider / Windows 11<br/>
+        - DB: PlayFab DB
+        <br/><br/>
+        <table>
+          <tr><th>구분</th><th>최소</th><th>권장</th></tr>
+          <tr><td>OS</td><td>Windows 11</td><td>Windows 11</td></tr>
+          <tr><td>CPU</td><td>i5-13xxx 6코어 12스레드 / 3.0GHz</td><td>Ryzen 5 7xxx</td></tr>
+          <tr><td>RAM</td><td>8GB</td><td>16GB 이상의 DDR5 RAM</td></tr>
+          <tr><td>GPU</td><td>RTX 3060 8GB</td><td>RTX 3060Ti 8GB</td></tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+</details>
+<hr/>
+<details>
+  <summary>
+    <table width="100%" style="border-collapse:collapse; border:none; margin:0; padding:0;">
+      <tr>
+        <td style="border:none; padding:6px 10px; width:190px;">
           <img src="https://github.com/user-attachments/assets/57571bfc-642c-483a-88ed-e5f59b960030" width="150" alt="VeloCore Cover" />
         </td>
         <td style="border:none; padding:6px 10px;">
@@ -246,68 +311,4 @@
   <br/>
 </details>
 <hr/>
-<details>
-  <summary>
-    <table width="100%" style="border-collapse:collapse; border:none; margin:0; padding:0;">
-      <tr>
-        <td style="border:none; padding:6px 10px; width:190px;">
-          <img src="https://github.com/user-attachments/assets/1a9705de-c3a2-4da1-b7f3-cdd862d8f19e" width="150" alt="VeloCore Cover" />
-        </td>
-        <td style="border:none; padding:6px 10px;">
-          <b>Project SZ -오픈월드 멀티플레이 생존게임-</b><br/>
-          <sub>오픈월드 · 온라인 멀티플레이 · CO-OP · TPS · 생존게임 · Listen Server · Steam OSS</sub>
-        </td>
-        </td>
-        <td style="border:none; padding:6px 10px; width:140px; text-align:right; white-space:nowrap;">
-          <sub><b>자세히 보기 ▾</b></sub>
-        </td>
-      </tr>
-    </table>
-  </summary>
-  <br/>
-  <table>
-    <tr>
-      <td width="68%" valign="top">
-        <a href="유튜브링크_기입">
-          <img src="이미지_URL_기입" width="100%" alt="Project SUZ Main Media" />
-        </a>
-        <br/><br/>
-        <a href="유튜브링크_기입">
-          <img src="이미지_URL_기입" width="100%" alt="Project SUZ Screenshot / Feature" />
-        </a>
-      </td>
-      <td width="32%" valign="top">
-        <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="UE" /><br/>
-        <sub><b>개발 기간</b>: 2026.01 ~ 2026.06 · <b>인원</b>: 2인</sub>
-        <br/><br/>
-        <b>About</b><br/>
-        PROJECT SZ는 출시를 목표로 개발 예정이며 포스트 아포칼립스 세계에서 각 플레이어들이 아이템을 파밍하며<br/>
-        좀비로부터 생존하여 탈출을 목표로 하는 게임입니다.
-        <br/><br/>
-        <b>Tags</b><br/>
-        <code>UE5</code> <code>C++</code> <code>Replication</code> <code>RPC</code> <code>Steam OSS</code> <code>Listen Server</code> <code>PlayFab</code>
-        <br/><br/>
-        <b>Links</b><br/>
-        <a href="레포링크_기입">
-          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repo" />
-        </a>
-        <br/><br/>
-        <b>Facts</b><br/>
-        - Engine: UE 5.7.1<br/>
-        - IDE/OS: VS 2026 Insider / Windows 11<br/>
-        - DB: PlayFab DB
-        <br/><br/>
-        <table>
-          <tr><th>구분</th><th>최소</th><th>권장</th></tr>
-          <tr><td>OS</td><td>Windows 11</td><td>Windows 11</td></tr>
-          <tr><td>CPU</td><td>i5-13xxx 6코어 12스레드 / 3.0GHz</td><td>Ryzen 5 7xxx</td></tr>
-          <tr><td>RAM</td><td>8GB</td><td>16GB 이상의 DDR5 RAM</td></tr>
-          <tr><td>GPU</td><td>RTX 3060 8GB</td><td>RTX 3060Ti 8GB</td></tr>
-        </table>
-      </td>
-    </tr>
-  </table>
 
-  <br/>
-</details>
-<hr/>

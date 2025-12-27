@@ -254,8 +254,8 @@
           <img src="https://github.com/user-attachments/assets/1a9705de-c3a2-4da1-b7f3-cdd862d8f19e" width="150" alt="VeloCore Cover" />
         </td>
         <td style="border:none; padding:6px 10px;">
-          <b>Project SUZ(개발준비중) -오픈월드 멀티플레이 생존게임-</b><br/>
-          <sub>오픈월드 · 온라인 멀티플레이 · TPS · 생존게임 · Listen Server · Steam OSS</sub>
+          <b>Project SZ -오픈월드 멀티플레이 생존게임-</b><br/>
+          <sub>오픈월드 · 온라인 멀티플레이 · CO-OP · TPS · 생존게임 · Listen Server · Steam OSS</sub>
         </td>
         </td>
         <td style="border:none; padding:6px 10px; width:140px; text-align:right; white-space:nowrap;">
@@ -278,11 +278,11 @@
       </td>
       <td width="32%" valign="top">
         <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="UE" /><br/>
-        <sub><b>개발 기간</b>: 2025.12 ~ 2026.03 · <b>인원</b>: 3인</sub>
+        <sub><b>개발 기간</b>: 2026.01 ~ 2026.06 · <b>인원</b>: 2인</sub>
         <br/><br/>
         <b>About</b><br/>
-        PROJECT SUV는 낙원 라이크 게임으로 개발 예정이며 포스트 아포칼립스 세계에서 각 플레이어들이 아이템을 파밍하며<br/>
-        각 플레이어 및 좀비로부터 생존해나가는 게임입니다.
+        PROJECT SZ는 출시를 목표로 개발 예정이며 포스트 아포칼립스 세계에서 각 플레이어들이 아이템을 파밍하며<br/>
+        좀비로부터 생존하여 탈출을 목표로 하는 게임입니다.
         <br/><br/>
         <b>Tags</b><br/>
         <code>UE5</code> <code>C++</code> <code>Replication</code> <code>RPC</code> <code>Steam OSS</code> <code>Listen Server</code> <code>PlayFab</code>

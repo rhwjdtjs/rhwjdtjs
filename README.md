@@ -65,7 +65,6 @@
      ========================= -->
      
 ## Team Hush
-<p align="center">
   <!-- Team Hush Logo -->
   <img src="https://github.com/user-attachments/assets/6e209178-49b3-4c19-9208-e04c1b2515a2" width="220" />
 </p>

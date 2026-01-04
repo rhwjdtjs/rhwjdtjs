@@ -82,9 +82,8 @@
         <img src="https://github.com/user-attachments/assets/8ec17911-bbf7-4468-98c4-0177ce253745?size=160" width="110" alt="Your GitHub Avatar" />
       </a>
       <br/>
-      <b>니니</b>
+      <b>rhwjdtjs</b>
       <br/>
-      <sub>UE5(C++) · Gameplay/Network</sub>
     </td>
     <td align="center" width="160">
       <!-- FRIEND -->
@@ -96,7 +95,6 @@
       <br/>
       <sub>UE5(C++) · Level/Content</sub>
       <br/>
-      <a href="https://github.com/Jellyeee">github.com/Jellyeee</a>
     </td>
   </tr>
 </table>

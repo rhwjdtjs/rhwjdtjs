@@ -123,10 +123,10 @@
     <table width="100%" style="border-collapse:collapse; border:none; margin:0; padding:0;">
       <tr>
         <td style="border:none; padding:6px 10px; width:190px;">
-          <img src="https://github.com/user-attachments/assets/1a9705de-c3a2-4da1-b7f3-cdd862d8f19e" width="150" alt="VeloCore Cover" />
+          <img src="https://github.com/user-attachments/assets/fb7e8c79-44f8-432f-8e6b-49712815b031" width="150" alt="VeloCore Cover" />
         </td>
         <td style="border:none; padding:6px 10px;">
-          <b>(개발준비중 01.05 시작)Project SZ -오픈월드 멀티플레이 생존게임-</b><br/>
+          <b>(Team Hush)Quiet Protocol -오픈월드 협동 멀티플레이 생존게임-</b><br/>
           <sub>오픈월드 · 온라인 멀티플레이 · CO-OP · TPS · 생존게임 · Listen Server · Steam OSS</sub>
         </td>
         </td>
@@ -141,7 +141,7 @@
     <tr>
       <td width="68%" valign="top">
         <a href="유튜브링크_기입">
-          <img src="이미지_URL_기입" width="100%" alt="이미지 준비중" />
+          <img src="https://github.com/user-attachments/assets/43389af4-64eb-420c-8f6b-2c0bb767941f" width="100%" alt="이미지 준비중" />
         </a>
         <br/><br/>
         <a href="유튜브링크_기입">

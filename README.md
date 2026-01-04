@@ -63,16 +63,13 @@
 <!-- =========================
      TEAM SECTION (README)
      ========================= -->
-
 ## Team Hush
 <p align="center">
   <!-- Team Hush Logo -->
   <img src="https://github.com/user-attachments/assets/6e209178-49b3-4c19-9208-e04c1b2515a2" width="220" />
 </p>
-
 **Team Hush**는 UE5(C++) 기반 리슨 서버 Co-op 생존/탈출 게임 **Quiet Protocol**을 개발하는 2인 팀입니다.  
 게임의 핵심 컨셉은 “**소음은 곧 죽음**”이며, AI 위협(좀비) 중심의 협동 플레이를 목표로 합니다.
-
 ### Team Members
 <table>
   <tr>
@@ -93,7 +90,6 @@
       <br/>
       <b>Jellyeee</b>
       <br/>
-      <sub>UE5(C++) · Level/Content</sub>
       <br/>
     </td>
   </tr>

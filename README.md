@@ -100,7 +100,66 @@
 # 💻 Main Engine / 🧠 Main Language     
  <img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=white">   <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=C++&logoColor=black">
 # 🎮 Game List (Projects)
-
+<details>
+  <summary>
+    <table width="100%" style="border-collapse:collapse; border:none; margin:0; padding:0;">
+      <tr>
+        <td style="border:none; padding:6px 10px; width:190px;">
+          <img src="https://github.com/user-attachments/assets/fb7e8c79-44f8-432f-8e6b-49712815b031" width="150" alt="VeloCore Cover" />
+        </td>
+        <td style="border:none; padding:6px 10px;">
+          <b>(Team Hush)Quiet Protocol -오픈월드 협동 멀티플레이 생존게임-</b><br/>
+          <sub>오픈월드 · 온라인 멀티플레이 · CO-OP · TPS · 생존게임 · Listen Server · Steam OSS</sub>
+        </td>
+        </td>
+        <td style="border:none; padding:6px 10px; width:140px; text-align:right; white-space:nowrap;">
+          <sub><b>자세히 보기 ▾</b></sub>
+        </td>
+      </tr>
+    </table>
+  </summary>
+  <br/>
+  <table>
+    <tr>
+      <td width="68%" valign="top">
+        <a href="유튜브링크_기입">
+          <img src="https://github.com/user-attachments/assets/43389af4-64eb-420c-8f6b-2c0bb767941f" width="100%" alt="이미지 준비중" />
+        </a>
+        <br/><br/>
+        <a href="유튜브링크_기입">
+          <img src="https://github.com/user-attachments/assets/b8f09a1d-021f-4076-a6e6-a12e84fd7e18" width="100%" alt="이미지 준비중" />
+        </a>
+      </td>
+      <td width="32%" valign="top">
+        <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="UE" /><br/>
+        <sub><b>개발 기간</b>: 2026.01 ~ 2026.08 · <b>인원</b>: 2인 Team Hush</sub>
+        <br/><br/>
+        <b>About</b><br/>
+         어느 날, 당신은 정체불명의 생존 실험에 참가하게 된다. 깨어난 곳은 좀비가 배회하는 외딴 섬. 여기서의 규칙은 단 하나, 소음은 곧 죽음이다. 흩어진 채로 깨어난 당신과 동료는 서로를 찾아야 한다. 발소리, 숨소리, 문을 여는 작은 소리까지—모든 흔들림이 그들을 부른다. 한 번          들키면 수는 늘고, 길은 막히며, 섬 전체가 당신을 향해 움직이기 시작한다. 살아남는 방법은 힘이 아니라 침묵과 선택, 그리고 서로를 지키는 판단이다. 끝내 이 실험의 규칙을 깨고, 섬을 빠져나갈 수 있을까.<br/>
+        <br/><br/>
+        <b>Tags</b><br/>
+        <code>UE5</code> <code>C++</code> <code>Replication</code> <code>RPC</code> <code>Steam OSS</code> <code>Listen Server</code> <code>PlayFab</code>
+        <br/><br/>
+        <b>Links</b><br/>
+        <a href="https://github.com/rhwjdtjs/Quiet_Protocol">
+          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repo" />
+        </a>
+        <br/><br/>
+        <b>Facts</b><br/>
+        - Engine: UE 5.5.4<br/>
+        - IDE/OS: VS 2026 Insider / Windows 11<br/>
+        - DB: PlayFab DB
+        <br/><br/>
+        <table>
+          <tr><th>구분</th><th>최소</th><th>권장</th></tr>
+          <tr><td>OS</td><td>Windows 11</td><td>Windows 11</td></tr>
+          <tr><td>CPU</td><td>i5-13xxx 6코어 12스레드 / 3.0GHz</td><td>Ryzen 5 7xxx</td></tr>
+          <tr><td>RAM</td><td>8GB</td><td>16GB 이상의 DDR5 RAM</td></tr>
+          <tr><td>GPU</td><td>RTX 3060 8GB</td><td>RTX 3060Ti 8GB</td></tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 <!-- =========================
    1) VeloCore
 ========================= -->
@@ -154,67 +213,6 @@
   <br/>
 </details>
 <hr/>
-<details>
-  <summary>
-    <table width="100%" style="border-collapse:collapse; border:none; margin:0; padding:0;">
-      <tr>
-        <td style="border:none; padding:6px 10px; width:190px;">
-          <img src="https://github.com/user-attachments/assets/fb7e8c79-44f8-432f-8e6b-49712815b031" width="150" alt="VeloCore Cover" />
-        </td>
-        <td style="border:none; padding:6px 10px;">
-          <b>(Team Hush)Quiet Protocol -오픈월드 협동 멀티플레이 생존게임-</b><br/>
-          <sub>오픈월드 · 온라인 멀티플레이 · CO-OP · TPS · 생존게임 · Listen Server · Steam OSS</sub>
-        </td>
-        </td>
-        <td style="border:none; padding:6px 10px; width:140px; text-align:right; white-space:nowrap;">
-          <sub><b>자세히 보기 ▾</b></sub>
-        </td>
-      </tr>
-    </table>
-  </summary>
-  <br/>
-  <table>
-    <tr>
-      <td width="68%" valign="top">
-        <a href="유튜브링크_기입">
-          <img src="https://github.com/user-attachments/assets/43389af4-64eb-420c-8f6b-2c0bb767941f" width="100%" alt="이미지 준비중" />
-        </a>
-        <br/><br/>
-        <a href="유튜브링크_기입">
-          <img src="이미지_URL_기입" width="100%" alt="이미지 준비중" />
-        </a>
-      </td>
-      <td width="32%" valign="top">
-        <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="UE" /><br/>
-        <sub><b>개발 기간</b>: 2026.01 ~ 2026.08 · <b>인원</b>: 2인 Team Hush</sub>
-        <br/><br/>
-        <b>About</b><br/>
-         어느 날, 당신은 정체불명의 생존 실험에 참가하게 된다. 깨어난 곳은 좀비가 배회하는 외딴 섬. 여기서의 규칙은 단 하나, 소음은 곧 죽음이다. 흩어진 채로 깨어난 당신과 동료는 서로를 찾아야 한다. 발소리, 숨소리, 문을 여는 작은 소리까지—모든 흔들림이 그들을 부른다. 한 번          들키면 수는 늘고, 길은 막히며, 섬 전체가 당신을 향해 움직이기 시작한다. 살아남는 방법은 힘이 아니라 침묵과 선택, 그리고 서로를 지키는 판단이다. 끝내 이 실험의 규칙을 깨고, 섬을 빠져나갈 수 있을까.<br/>
-        <br/><br/>
-        <b>Tags</b><br/>
-        <code>UE5</code> <code>C++</code> <code>Replication</code> <code>RPC</code> <code>Steam OSS</code> <code>Listen Server</code> <code>PlayFab</code>
-        <br/><br/>
-        <b>Links</b><br/>
-        <a href="https://github.com/rhwjdtjs/Quiet_Protocol">
-          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repo" />
-        </a>
-        <br/><br/>
-        <b>Facts</b><br/>
-        - Engine: UE 5.5.4<br/>
-        - IDE/OS: VS 2026 Insider / Windows 11<br/>
-        - DB: PlayFab DB
-        <br/><br/>
-        <table>
-          <tr><th>구분</th><th>최소</th><th>권장</th></tr>
-          <tr><td>OS</td><td>Windows 11</td><td>Windows 11</td></tr>
-          <tr><td>CPU</td><td>i5-13xxx 6코어 12스레드 / 3.0GHz</td><td>Ryzen 5 7xxx</td></tr>
-          <tr><td>RAM</td><td>8GB</td><td>16GB 이상의 DDR5 RAM</td></tr>
-          <tr><td>GPU</td><td>RTX 3060 8GB</td><td>RTX 3060Ti 8GB</td></tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-
   <br/>
 </details>
 <hr/>

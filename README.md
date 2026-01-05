@@ -123,7 +123,7 @@
   <table>
     <tr>
       <td width="68%" valign="top">
-        <a href="유튜브링크_기입">
+        <a href="유튜111브링크_기입">
           <img src="https://github.com/user-attachments/assets/43389af4-64eb-420c-8f6b-2c0bb767941f" width="100%" alt="이미지 준비중" />
         </a>
         <br/><br/>

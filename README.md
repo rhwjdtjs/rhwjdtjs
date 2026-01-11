@@ -124,7 +124,7 @@
     <tr>
       <td width="68%" valign="top">
         <a href="유튜111브링크_기입">
-          <img src="https://github.com/user-attachments/assets/43389af4-64eb-420c-8f6b-2c0bb767941f" width="100%" alt="이미지 준비중" />
+          <img src="https://github.com/user-attachments/assets/a8756a40-3d51-4a8d-a67a-3f48fe102f02" width="100%" alt="이미지 준비중" />
         </a>
         <br/><br/>
         <a href="유튜브링크_기입">

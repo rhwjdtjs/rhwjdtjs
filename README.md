@@ -148,7 +148,7 @@
         <br/><br/>
         <b>Facts</b><br/>
         - Engine: UE 5.5.4<br/>
-        - IDE/OS: VS 2026 Insider / Windows 11<br/>
+        - IDE/OS: VS 2022 / Windows 11<br/>
         - DB: PlayFab DB
         <br/><br/>
         <table>

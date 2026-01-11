@@ -77,7 +77,7 @@
     <td align="center" width="160">
       <!-- YOU -->
       <a href="https://github.com/rhwjdtjs">
-        <img src="https://github.com/user-attachments/assets/a8756a40-3d51-4a8d-a67a-3f48fe102f02" width="110" alt="Your GitHub Avatar" />
+        <img src="https://github.com/user-attachments/assets/b5c50818-3ca6-4948-abe4-826d69bdbff6" width="110" alt="Your GitHub Avatar" />
       </a>
       <br/>
       <b>rhwjdtjs</b>

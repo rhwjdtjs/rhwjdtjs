@@ -70,7 +70,7 @@
     <td align="center" width="160">
       <!-- YOU -->
       <a href="https://github.com/rhwjdtjs">
-        <img src="https://github.com/user-attachments/assets/b5c50818-3ca6-4948-abe4-826d69bdbff6" width="110" alt="Your GitHub Avatar" />
+        <img src="https://github.com/user-attachments/assets/a98839c8-7790-4a4a-b51a-5ae441933323" width="110" alt="Your GitHub Avatar" />
       </a>
       <br/>
       <b>rhwjdtjs</b>

@@ -1,29 +1,3 @@
-## Team Hush
-<table>
-  <tr>
-    <td align="center" width="160">
-      <!-- YOU -->
-      <a href="https://github.com/rhwjdtjs">
-        <img src="https://github.com/user-attachments/assets/a98839c8-7790-4a4a-b51a-5ae441933323" width="110" alt="Your GitHub Avatar" />
-      </a>
-      <br/>
-      <b>rhwjdtjs</b>
-      <br/>
-    </td>
-    <td align="center" width="160">
-      <!-- FRIEND -->
-      <a href="https://github.com/Jellyeee">
-        <img src="https://github.com/user-attachments/assets/8e6258e6-a0e4-47fb-90f1-a68ea9915f35?size=160" width="110" alt="Jellyeee GitHub Avatar" />
-      </a>
-      <br/>
-      <b>Jellyeee</b>
-      <br/>
-      <br/>
-    </td>
-  </tr>
-</table>
-
-           
 # 💻 Main Engine / 🧠 Main Language     
  <img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=white">   <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=C++&logoColor=black">
 # 🎮 Game List (Projects) 🎮  

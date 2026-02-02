@@ -18,7 +18,7 @@
       </td>
       <td width="55%" style="padding:0 15px; vertical-align:middle;">
         <b style="font-size:16px;">Quiet Protocol (Team Hush)</b><br/>
-        <sub style="color:gray;">오픈월드 생존 · CO-OP · 좀비 · Steam OSS</sub><br/>
+        <sub style="color:gray;">오픈월드 생존 · CO-OP · 좀비 · Steam OSS · 출시 예정작품</sub><br/>
         <img src="https://img.shields.io/badge/UE5-black?style=flat-square&logo=unrealengine" height="20"> 
         <img src="https://img.shields.io/badge/Steam-005571?style=flat-square&logo=steam" height="20">
       </td>
@@ -52,11 +52,11 @@
   <table width="100%" style="table-layout:fixed; border-top:1px solid #30363d;">
     <tr>
       <td width="30%" style="padding:10px 0 0 0; vertical-align:middle;">
-        <img src="https://github.com/user-attachments/assets/791895ae-086b-43db-a5db-f796a298335e" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="VeloCore Cover"/>
+        <img src="https://github.com/user-attachments/assets/909f50ca-2091-4886-b2b0-2fa5ab8d3bb0" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="VeloCore Cover"/>
       </td>
       <td width="55%" style="padding:10px 15px 0 15px; vertical-align:middle;">
         <b style="font-size:16px;">VeloCore</b><br/>
-        <sub style="color:gray;">하이퍼 TPS · 멀티플레이 · 기동전 · Firebase</sub><br/>
+        <sub style="color:gray;">하이퍼 TPS · 멀티플레이 · 기동전 · 최대 12인 플레이 지원 · Firebase</sub><br/>
         <img src="https://img.shields.io/badge/UE5-black?style=flat-square&logo=unrealengine" height="20"> 
         <img src="https://img.shields.io/badge/Steam-005571?style=flat-square&logo=steam" height="20">
       </td>
@@ -90,7 +90,7 @@
   <table width="100%" style="table-layout:fixed; border-top:1px solid #30363d;">
     <tr>
       <td width="30%" style="padding:10px 0 0 0; vertical-align:middle;">
-        <img src="https://github.com/user-attachments/assets/57571bfc-642c-483a-88ed-e5f59b960030" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="Living Lonely Cover"/>
+        <img src="https://github.com/user-attachments/assets/cda53593-f4ca-4d6f-accd-f88df81c3666" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="Living Lonely Cover"/>
       </td>
       <td width="55%" style="padding:10px 15px 0 15px; vertical-align:middle;">
         <b style="font-size:16px;">Living Lonely</b><br/>
@@ -128,7 +128,7 @@
   <table width="100%" style="table-layout:fixed; border-top:1px solid #30363d;">
     <tr>
       <td width="30%" style="padding:10px 0 0 0; vertical-align:middle;">
-        <img src="https://github.com/user-attachments/assets/9ae2af30-d2b2-4969-807d-24a39cffc562" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="Flight Fighter Cover"/>
+        <img src="https://github.com/user-attachments/assets/6fbdebcd-f615-44ab-9eb9-92886cb34bbb" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="Flight Fighter Cover"/>
       </td>
       <td width="55%" style="padding:10px 15px 0 15px; vertical-align:middle;">
         <b style="font-size:16px;">Flight Fighter</b><br/>

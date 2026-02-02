@@ -1,4 +1,4 @@
-### ⚡ My Stack
+# ⚡ My Stack
 <div align="center">
   <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"> 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -7,23 +7,23 @@
 
 <br/>
 
-### 🎮 Game List (Projects)
+# 🎮 Game List (Projects)
 
 <details>
 <summary>
-  <table width="100%" style="border-collapse:collapse;">
+  <table width="100%" style="table-layout:fixed;">
     <tr>
-      <td width="260" height="145" style="padding:0; vertical-align:middle;">
-        <img src="https://github.com/user-attachments/assets/fb7e8c79-44f8-432f-8e6b-49712815b031" width="260" height="145" style="display:block; object-fit:cover;" alt="QP Cover"/>
+      <td width="30%" style="padding:0; vertical-align:middle;">
+        <img src="https://github.com/user-attachments/assets/fb7e8c79-44f8-432f-8e6b-49712815b031" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="QP Cover"/>
       </td>
-      <td style="padding:0 15px; vertical-align:middle;">
+      <td width="55%" style="padding:0 15px; vertical-align:middle;">
         <b style="font-size:16px;">Quiet Protocol (Team Hush)</b><br/>
-        <sub style="color:gray;">오픈월드 생존 · CO-OP · 좀비 · Listen Server</sub><br/>
+        <sub style="color:gray;">오픈월드 생존 · CO-OP · 좀비 · Steam OSS</sub><br/>
         <img src="https://img.shields.io/badge/UE5-black?style=flat-square&logo=unrealengine" height="20"> 
-        <img src="https://img.shields.io/badge/Steam-OSS-blue?style=flat-square&logo=steam" height="20">
+        <img src="https://img.shields.io/badge/Steam-005571?style=flat-square&logo=steam" height="20">
       </td>
-      <td width="100" style="text-align:right; vertical-align:middle;">
-        <img src="https://img.shields.io/badge/VIEW-DETAILS-success?style=for-the-badge">
+      <td width="15%" style="text-align:right; vertical-align:middle;">
+        <b>[ 상세 보기 ▾ ]</b>
       </td>
     </tr>
   </table>
@@ -49,19 +49,19 @@
 
 <details>
 <summary>
-  <table width="100%" style="border-collapse:collapse;">
+  <table width="100%" style="table-layout:fixed; border-top:1px solid #30363d;">
     <tr>
-      <td width="260" height="145" style="padding:0; vertical-align:middle;">
-        <img src="https://github.com/user-attachments/assets/791895ae-086b-43db-a5db-f796a298335e" width="260" height="145" style="display:block; object-fit:cover;" alt="VeloCore Cover"/>
+      <td width="30%" style="padding:10px 0 0 0; vertical-align:middle;">
+        <img src="https://github.com/user-attachments/assets/791895ae-086b-43db-a5db-f796a298335e" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="VeloCore Cover"/>
       </td>
-      <td style="padding:0 15px; vertical-align:middle;">
+      <td width="55%" style="padding:10px 15px 0 15px; vertical-align:middle;">
         <b style="font-size:16px;">VeloCore</b><br/>
         <sub style="color:gray;">하이퍼 TPS · 멀티플레이 · 기동전 · Firebase</sub><br/>
         <img src="https://img.shields.io/badge/UE5-black?style=flat-square&logo=unrealengine" height="20"> 
-        <img src="https://img.shields.io/badge/Steam-OSS-blue?style=flat-square&logo=steam" height="20">
+        <img src="https://img.shields.io/badge/Steam-005571?style=flat-square&logo=steam" height="20">
       </td>
-      <td width="100" style="text-align:right; vertical-align:middle;">
-        <img src="https://img.shields.io/badge/VIEW-DETAILS-success?style=for-the-badge">
+      <td width="15%" style="padding:10px 0 0 0; text-align:right; vertical-align:middle;">
+        <b>[ 상세 보기 ▾ ]</b>
       </td>
     </tr>
   </table>
@@ -87,19 +87,19 @@
 
 <details>
 <summary>
-  <table width="100%" style="border-collapse:collapse;">
+  <table width="100%" style="table-layout:fixed; border-top:1px solid #30363d;">
     <tr>
-      <td width="260" height="145" style="padding:0; vertical-align:middle;">
-        <img src="https://github.com/user-attachments/assets/57571bfc-642c-483a-88ed-e5f59b960030" width="260" height="145" style="display:block; object-fit:cover;" alt="Living Lonely Cover"/>
+      <td width="30%" style="padding:10px 0 0 0; vertical-align:middle;">
+        <img src="https://github.com/user-attachments/assets/57571bfc-642c-483a-88ed-e5f59b960030" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="Living Lonely Cover"/>
       </td>
-      <td style="padding:0 15px; vertical-align:middle;">
+      <td width="55%" style="padding:10px 15px 0 15px; vertical-align:middle;">
         <b style="font-size:16px;">Living Lonely</b><br/>
         <sub style="color:gray;">오픈월드 생존 · 싱글플레이 · PlayFab</sub><br/>
         <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity" height="20"> 
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp" height="20">
       </td>
-      <td width="100" style="text-align:right; vertical-align:middle;">
-        <img src="https://img.shields.io/badge/VIEW-DETAILS-success?style=for-the-badge">
+      <td width="15%" style="padding:10px 0 0 0; text-align:right; vertical-align:middle;">
+        <b>[ 상세 보기 ▾ ]</b>
       </td>
     </tr>
   </table>
@@ -125,19 +125,19 @@
 
 <details>
 <summary>
-  <table width="100%" style="border-collapse:collapse;">
+  <table width="100%" style="table-layout:fixed; border-top:1px solid #30363d;">
     <tr>
-      <td width="260" height="145" style="padding:0; vertical-align:middle;">
-        <img src="https://github.com/user-attachments/assets/9ae2af30-d2b2-4969-807d-24a39cffc562" width="260" height="145" style="display:block; object-fit:cover;" alt="Flight Fighter Cover"/>
+      <td width="30%" style="padding:10px 0 0 0; vertical-align:middle;">
+        <img src="https://github.com/user-attachments/assets/9ae2af30-d2b2-4969-807d-24a39cffc562" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="Flight Fighter Cover"/>
       </td>
-      <td style="padding:0 15px; vertical-align:middle;">
+      <td width="55%" style="padding:10px 15px 0 15px; vertical-align:middle;">
         <b style="font-size:16px;">Flight Fighter</b><br/>
         <sub style="color:gray;">1vs1 대전 · 아케이드 · 전투기 · Photon</sub><br/>
         <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity" height="20"> 
         <img src="https://img.shields.io/badge/Photon-005571?style=flat-square&logo=photon" height="20">
       </td>
-      <td width="100" style="text-align:right; vertical-align:middle;">
-        <img src="https://img.shields.io/badge/VIEW-DETAILS-success?style=for-the-badge">
+      <td width="15%" style="padding:10px 0 0 0; text-align:right; vertical-align:middle;">
+        <b>[ 상세 보기 ▾ ]</b>
       </td>
     </tr>
   </table>

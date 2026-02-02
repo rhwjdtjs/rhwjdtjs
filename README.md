@@ -1,6 +1,6 @@
 # 💻 Main Engine / 🧠 Main Language     
  <img src="https://img.shields.io/badge/unrealengine-%230E1128?style=for-the-badge&logo=unrealEngine&logoColor=white">  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=C++&logoColor=black">
-# 🎮 Game List (Projects) 🎮  
+# 🎮 Game List (Projects)
 
 <details>
   <summary>

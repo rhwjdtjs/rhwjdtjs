@@ -31,7 +31,7 @@
 <table width="100%">
   <tr>
     <td align="center">
-      <a href="유튜브링크_기입"><img src="https://github.com/user-attachments/assets/c9f4ebfc-bb86-41fb-8d64-1933b4be4309" width="100%" alt="QP Main"/></a>
+      <a href="https://www.youtube.com/@TEAMHUSH-g4j"><img src="https://github.com/user-attachments/assets/37397d67-12bb-40a5-80ae-360145cd245f" width="100%" alt="QP Main"/></a>
     </td>
   </tr>
   <tr>

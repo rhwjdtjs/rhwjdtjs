@@ -7,7 +7,7 @@
 
 <br/>
 
-# 🎮 Game List
+# 🎮 Games
 
 <details>
 <summary>

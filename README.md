@@ -31,7 +31,7 @@
 <table width="100%">
   <tr>
     <td align="center">
-      <a href="유튜브링크_기입"><img src="https://github.com/user-attachments/assets/a8756a40-3d51-4a8d-a67a-3f48fe102f02" width="100%" alt="QP Main"/></a>
+      <a href="유튜브링크_기입"><img src="https://github.com/user-attachments/assets/c9f4ebfc-bb86-41fb-8d64-1933b4be4309" width="100%" alt="QP Main"/></a>
     </td>
   </tr>
   <tr>

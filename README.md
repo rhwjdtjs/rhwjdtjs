@@ -14,7 +14,7 @@
   <table width="100%" style="table-layout:fixed;">
     <tr>
       <td width="30%" style="padding:0; vertical-align:middle;">
-        <img src="https://github.com/user-attachments/assets/fa5caaf7-f859-4918-ba2e-63b641bf5b62" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="QP Cover"/>
+        <img src="https://github.com/user-attachments/assets/dbb0989a-6784-4e5e-bfd9-91e70a3a51d8" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="QP Cover"/>
       </td>
       <td width="55%" style="padding:0 15px; vertical-align:middle;">
         <b style="font-size:16px;">Quiet Protocol (Team Hush)</b><br/>

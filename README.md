@@ -38,7 +38,7 @@
     <td>
       <br/>
       <b>About</b><br/>
-      어느 날, 당신은 정체불명의 생존 실험에 참가하게 된다. 소음은 곧 죽음이다. 흩어진 동료를 찾아 탈출하라.<br/><br/>
+      어느 날, 당신은 정체불명의 생존 실험에 참가하게 된다. 소음은 곧 죽음이다. 흩어진 동료를 찾아 탈출하라. (협업중, 작업 일시 중단) <br/><br/>
       <b>Tech Stack</b><br/>
       <code>UE5.5</code> <code>C++</code> <code>Replication</code> <code>Steam OSS</code> <code>PlayFab</code><br/><br/>
       <a href="https://github.com/rhwjdtjs/UE5_QP"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white"></a>

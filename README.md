@@ -43,7 +43,7 @@
       <b>Tech Stack</b><br/>
       <code>UE5.5</code> <code>C++</code> <code>Behavior Tree</code> <code>Adaptive AI</code> <br/><br/>
       <b>Progress</b><br/>
-      <code>MVP-5/8 완료</code> · 로그라이크 시스템 개발 예정<br/><br/>
+      <code>MVP-6/8 완료</code> · 로그라이크 시스템 개발 예정<br/><br/>
       <a href="https://github.com/rhwjdtjs/Toosin_Public"><img src="https://img.shields.io/badge/개발현황-Repo-181717?style=flat-square&logo=github&logoColor=white"></a>
     </td>
   </tr>

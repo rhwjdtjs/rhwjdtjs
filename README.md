@@ -14,7 +14,7 @@
   <table width="100%" style="table-layout:fixed;">
     <tr>
       <td width="30%" style="padding:0; vertical-align:middle;">
-        <img src="https://github.com/user-attachments/assets/3915adf2-604a-4f42-ac53-637e6574ddc2" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="Toosin Cover"/>
+        <img src="https://github.com/user-attachments/assets/01543b02-2fc7-4eaa-bbfc-c0faf5fdfabe" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="Toosin Cover"/>
       </td>
       <td width="55%" style="padding:0 15px; vertical-align:middle;">
         <b style="font-size:16px;">Toosin 투신</b><br/>

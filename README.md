@@ -32,7 +32,7 @@
 <table width="100%">
   <tr>
     <td align="center">
-       <img src="https://github.com/user-attachments/assets/c93193e4-d4c9-4374-9f6e-d3168e347cc7" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="Toosin Cover"/>
+       <img src="https://github.com/user-attachments/assets/1f33b19e-f0bc-47c8-8b31-13bb0cba21c5" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="Toosin Cover"/>
     </td>
   </tr>
   <tr>

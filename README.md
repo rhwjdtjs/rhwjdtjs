@@ -43,7 +43,7 @@
       <b>Tech Stack</b><br/>
       <code>UE5.5</code> <code>C++</code> <code>Behavior Tree</code> <code>Adaptive AI</code> <br/><br/>
       <b>Progress</b><br/>
-      <code>MVP-6/8 완료</code> · 로그라이크 시스템 개발 예정<br/><br/>
+      <code>MVP-7/8 완료</code> · 출시 전 다듬기 과정 <br/><br/>
       <a href="https://github.com/rhwjdtjs/Toosin_Public"><img src="https://img.shields.io/badge/개발현황-Repo-181717?style=flat-square&logo=github&logoColor=white"></a>
     </td>
   </tr>
@@ -97,7 +97,7 @@
       </td>
       <td width="55%" style="padding:0 15px; vertical-align:middle;">
         <b style="font-size:16px;">Quiet Protocol (Team Hush)</b><br/>
-        <sub style="color:gray;">오픈월드 생존 · CO-OP · 좀비 · Steam OSS · 출시 예정작품</sub><br/>
+        <sub style="color:gray;">익스트랙션 · CO-OP · 좀비</sub><br/>
         <img src="https://img.shields.io/badge/UE5-black?style=flat-square&logo=unrealengine" height="20"> 
         <img src="https://img.shields.io/badge/Steam-005571?style=flat-square&logo=steam" height="20">
       </td>

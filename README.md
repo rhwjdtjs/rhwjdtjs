@@ -32,6 +32,13 @@
 <table width="100%">
   <tr>
     <td align="center">
+      <div align="center">
+  <a href="https://youtu.be/hxRHCSewN8A?si=8ZwLhGKpA7nD_lWA">
+    <img src="https://github.com/user-attachments/assets/673b1967-9b7f-4644-9e54-010ad42dc884" width="100%" alt="게임 플레이 영상 보러가기" />
+
+    유튜브 바로가기 이미지 클릭
+  </a>
+</div>
        <img src="https://github.com/user-attachments/assets/1f33b19e-f0bc-47c8-8b31-13bb0cba21c5" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="Toosin Cover"/>
     </td>
   </tr>

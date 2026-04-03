@@ -33,8 +33,8 @@
   <tr>
     <td align="center">
       <div align="center">
-  <a href="https://youtu.be/hxRHCSewN8A?si=8ZwLhGKpA7nD_lWA">
-    <img src="https://github.com/user-attachments/assets/673b1967-9b7f-4644-9e54-010ad42dc884" width="100%" alt="게임 플레이 영상 보러가기" />
+  <a href="https://youtu.be/mr6uuFZbpm8?si=kCmxLBWuOJijrwrj">
+    <img src="https://github.com/user-attachments/assets/91f9030c-b3a5-45b8-b70a-bbe2424c38ee" width="100%" alt="공식 시네마틱 영상" />
 
     유튜브 바로가기 이미지 클릭
   </a>

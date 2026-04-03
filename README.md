@@ -35,8 +35,7 @@
       <div align="center">
   <a href="https://youtu.be/mr6uuFZbpm8?si=kCmxLBWuOJijrwrj">
     <img src="https://github.com/user-attachments/assets/91f9030c-b3a5-45b8-b70a-bbe2424c38ee" width="100%" alt="공식 시네마틱 영상" />
-
-    유튜브 바로가기 이미지 클릭
+공식 시네마틱 영상
   </a>
 </div>
        <img src="https://github.com/user-attachments/assets/1f33b19e-f0bc-47c8-8b31-13bb0cba21c5" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="Toosin Cover"/>

@@ -14,12 +14,13 @@
   <table width="100%" style="table-layout:fixed;">
     <tr>
       <td width="30%" style="padding:0; vertical-align:middle;">
-        <img src="https://github.com/user-attachments/assets/ac413b4b-905b-443e-9cff-725a1d702fd5" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="Toosin Cover"/>
+        <img src="https://github.com/user-attachments/assets/b9d5d78a-247d-43ba-899e-5da525efabcc" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="Toosin Cover"/>
       </td>
       <td width="55%" style="padding:0 15px; vertical-align:middle;">
         <b style="font-size:16px;">Toosin 투신</b><br/>
         <sub style="color:gray;">1v1 검투사 로그라이크 · 자가학습 AI · 멀티플랫폼 출시 예정 </sub><br/>
         <img src="https://img.shields.io/badge/UE5-black?style=flat-square&logo=unrealengine" height="20"> 
+        <img src="https://img.shields.io/badge/STOVE%20Indie-FF5400?style=flat-square&logo=stove&logoColor=white" height="20">
         <img src="https://img.shields.io/badge/Steam-005571?style=flat-square&logo=steam" height="20">
         <img src="https://img.shields.io/badge/Switch_2-E60012?style=flat-square&logo=nintendo&logoColor=white" height="20">
       </td>
@@ -47,7 +48,7 @@
       <b>Tech Stack</b><br/>
       <code>UE5.5</code> <code>C++</code> <code>Behavior Tree</code> <code>Adaptive AI</code> <br/><br/>
       <b>Progress</b><br/>
-      <code>MVP-7/8 완료</code> · 출시 전 다듬기 과정 <br/><br/>
+      <code>MVP-9/9 완료</code> · 이용등급 및 빌드심사 제출 완료 <br/><br/>
       <a href="https://github.com/rhwjdtjs/Toosin_Public"><img src="https://img.shields.io/badge/개발현황-Repo-181717?style=flat-square&logo=github&logoColor=white"></a>
     </td>
   </tr>

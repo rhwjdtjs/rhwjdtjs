@@ -1,15 +1,14 @@
-# ⚡My Stack
+# ⚡ Core Competencies
+
 <div align="center">
   <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"> 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
 
-<br/>
-
 # 🎮 Games
 
-<details>
+<details Close>
 <summary>
   <table width="100%" style="table-layout:fixed;">
     <tr>
@@ -17,9 +16,10 @@
         <img src="https://github.com/user-attachments/assets/98d17ae8-f3d4-42c5-bd1c-1fa2e19d0ae3" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="Toosin Cover"/>
       </td>
       <td width="55%" style="padding:0 15px; vertical-align:middle;">
-        <b style="font-size:16px;">Toosin 투신</b><br/>
-        <sub style="color:gray;">1v1 검투사 로그라이크 · 자가학습 AI · 멀티플랫폼 출시 예정 </sub><br/>
-        <img src="https://img.shields.io/badge/UE5-black?style=flat-square&logo=unrealengine" height="20"> 
+        <b style="font-size:18px;">Toosin 투신</b><br/>
+        <sub style="color:#00FF66; font-weight:bold;">스토브 인디 & 스팀 글로벌 정식 출시 완료! 🚀</sub><br/>
+        <sub style="color:gray;">1v1 검투사 로그라이크 · 자가학습 AI · 텀블벅 120% 후원 성공</sub><br/><br/>
+        <img src="https://img.shields.io/badge/UE5.5-black?style=flat-square&logo=unrealengine" height="20"> 
         <img src="https://img.shields.io/badge/STOVE%20Indie-FF5400?style=flat-square&logo=stove&logoColor=white" height="20">
         <img src="https://img.shields.io/badge/Steam-005571?style=flat-square&logo=steam" height="20">
         <img src="https://img.shields.io/badge/Switch_2-E60012?style=flat-square&logo=nintendo&logoColor=white" height="20">
@@ -34,22 +34,29 @@
   <tr>
     <td align="center">
       <div align="center">
-  <a href="https://youtu.be/mr6uuFZbpm8?si=kCmxLBWuOJijrwrj">
-    <img src="https://github.com/user-attachments/assets/91f9030c-b3a5-45b8-b70a-bbe2424c38ee" width="100%" alt="공식 시네마틱 영상" />
-공식 시네마틱 영상
-  </a>
-</div>
+        <a href="https://youtu.be/mr6uuFZbpm8?si=kCmxLBWuOJijrwrj">
+          <img src="https://github.com/user-attachments/assets/4fa07f6d-e675-4548-a0a7-760d5c325860" width="100%" alt="공식 시네마틱 영상" />
+          <sub>🎥 공식 시네마틱 영상 보러가기</sub>
+        </a>
+      </div>
+    </td>
   </tr>
   <tr>
     <td>
       <br/>
       <b>About</b><br/>
-      적은 당신의 패턴을 학습합니다. 1대1 아레나에서 자가학습 AI와 목숨을 건 결투를 벌이며, 매 승리마다 무작위 특성을 획득하여 자신만의 전투 스타일을 구축하세요. <br/><br/>
+      적은 당신의 패턴을 기억하고 학습합니다. 기묘한 1대1 아레나에서 자가학습 AI와 목숨을 건 혈투를 벌이며, 매 승리마다 획득하는 무작위 특성 및 특전 조합 시너지를 극대화하여 자신만의 독창적인 콤보 액션 스타일을 구축하세요. <br/><br/>
       <b>Tech Stack</b><br/>
-      <code>UE5.5</code> <code>C++</code> <code>Behavior Tree</code> <code>Adaptive AI</code> <br/><br/>
+      <code>UE5.5 (C++)</code> <code>Behavior Tree (AI)</code> <code>Adaptive DDA AI</code> <code>Stove SDK</code> <code>Steam SDK</code> <code>Enhanced Input</code> <br/><br/>
       <b>Progress</b><br/>
-      <code>MVP-9/9 완료</code> · 이용등급 및 빌드심사 제출 완료 <br/><br/>
+      🎉 정식 출시 완료 (Stove Indie & Steam Release)<br/>
+      - 텀블벅 크라우드 펀딩 120% 성공적 종료 및 후원자 대상 스팀/스토브 CD-Key 배포 완료<br/>
+      - 플랫폼 고유 API를 적용하여 PlayFab 의존성 없이 스팀 & 스토브 리더보드/업적 시스템 독자적 연동 완료<br/>
+      - 라이브 서비스 제공 및 7월 초 대규모 클래스 시스템 확장 업데이트(Ver.0.0.90) 준비 중 <br/><br/>
       <a href="https://github.com/rhwjdtjs/Toosin_Public"><img src="https://img.shields.io/badge/개발현황-Repo-181717?style=flat-square&logo=github&logoColor=white"></a>
+      <a href="https://store.onstove.com/ko/games/104376"><img src="https://img.shields.io/badge/STOVE-Store-FF5400?style=flat-square&logo=stove&logoColor=white"></a>
+      <a href="https://store.steampowered.com/app/4635530/TOOSIN/"><img src="https://img.shields.io/badge/Steam-Store-005571?style=flat-square&logo=steam&logoColor=white"></a>
+      <a href="https://discord.gg/3R9kHMtEg6"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white"></a>
     </td>
   </tr>
 </table>
@@ -66,7 +73,6 @@
         <b style="font-size:16px;">VeloCore</b><br/>
         <sub style="color:gray;">하이퍼 TPS · 멀티플레이 · 기동전 · 최대 12인 플레이 지원 · Firebase</sub><br/>
         <img src="https://img.shields.io/badge/UE5-black?style=flat-square&logo=unrealengine" height="20"> 
-        <img src="https://img.shields.io/badge/Steam-005571?style=flat-square&logo=steam" height="20">
       </td>
       <td width="15%" style="padding:10px 0 0 0; text-align:right; vertical-align:middle;">
         <b>[ 상세 보기 ▾ ]</b>
@@ -104,7 +110,6 @@
         <b style="font-size:16px;">Quiet Protocol (Team Hush)</b><br/>
         <sub style="color:gray;">익스트랙션 · CO-OP · 좀비</sub><br/>
         <img src="https://img.shields.io/badge/UE5-black?style=flat-square&logo=unrealengine" height="20"> 
-        <img src="https://img.shields.io/badge/Steam-005571?style=flat-square&logo=steam" height="20">
       </td>
       <td width="15%" style="text-align:right; vertical-align:middle;">
         <b>[ 상세 보기 ▾ ]</b>

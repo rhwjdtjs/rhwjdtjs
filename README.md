@@ -98,44 +98,6 @@
   </tr>
 </table>
 </details>
-
-<details>
-<summary>
-  <table width="100%" style="table-layout:fixed;">
-    <tr>
-      <td width="30%" style="padding:0; vertical-align:middle;">
-        <img src="https://github.com/user-attachments/assets/dbb0989a-6784-4e5e-bfd9-91e70a3a51d8" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="QP Cover"/>
-      </td>
-      <td width="55%" style="padding:0 15px; vertical-align:middle;">
-        <b style="font-size:16px;">Quiet Protocol (Team Hush)</b><br/>
-        <sub style="color:gray;">익스트랙션 · CO-OP · 좀비</sub><br/>
-        <img src="https://img.shields.io/badge/UE5-black?style=flat-square&logo=unrealengine" height="20"> 
-      </td>
-      <td width="15%" style="text-align:right; vertical-align:middle;">
-        <b>[ 상세 보기 ▾ ]</b>
-      </td>
-    </tr>
-  </table>
-</summary>
-<table width="100%">
-  <tr>
-    <td align="center">
-      <a href="https://www.youtube.com/@TEAMHUSH-g4j"><img src="https://github.com/user-attachments/assets/37397d67-12bb-40a5-80ae-360145cd245f" width="100%" alt="QP Main"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <br/>
-      <b>About</b><br/>
-      어느 날, 당신은 정체불명의 생존 실험에 참가하게 된다. 소음은 곧 죽음이다. 흩어진 동료를 찾아 탈출하라. (협업중, 작업 일시 중단) <br/><br/>
-      <b>Tech Stack</b><br/>
-      <code>UE5.5</code> <code>C++</code> <code>Replication</code> <code>Steam OSS</code> <code>PlayFab</code><br/><br/>
-      <a href="https://github.com/rhwjdtjs/UE5_QP"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white"></a>
-    </td>
-  </tr>
-</table>
-</details>
-
 <details>
 <summary>
   <table width="100%" style="table-layout:fixed; border-top:1px solid #30363d;">

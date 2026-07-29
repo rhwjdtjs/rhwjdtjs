@@ -1,175 +1,139 @@
-# ⚡ Core Competencies
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"> 
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+
+<img src="./assets/toosin-profile-header.png" width="100%" alt="TOOSIN : 투신 — TEAM NIRIZ" />
+
+### Independent Game Developer · Unreal Engine / C++
+
+I build combat systems, adaptive game AI, and player-facing tools at **TEAM NIRIZ**.
+
+[![Website](https://img.shields.io/badge/TEAM_NIRIZ-Official_Website-c69b57?style=for-the-badge&logo=googlechrome&logoColor=white)](https://teamniriz.com/)
+[![Steam](https://img.shields.io/badge/TOOSIN-Steam_Early_Access-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/4635530/TOOSIN/)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EHMwJSjWpA)
+[![Public Docs](https://img.shields.io/badge/GitHub-TOOSIN_Public-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rhwjdtjs/Toosin_Public)
+
 </div>
 
-# 🎮 Games
+## Currently shipping
 
-<details Close>
-<summary>
-  <table width="100%" style="table-layout:fixed;">
-    <tr>
-      <td width="30%" style="padding:0; vertical-align:middle;">
-        <img src="https://github.com/user-attachments/assets/98d17ae8-f3d4-42c5-bd1c-1fa2e19d0ae3" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="Toosin Cover"/>
-      </td>
-      <td width="55%" style="padding:0 15px; vertical-align:middle;">
-        <b style="font-size:18px;">Toosin 투신</b><br/>
-        <sub style="color:#00FF66; font-weight:bold;">스토브 인디 & 스팀 글로벌 정식 출시 완료! 🚀</sub><br/>
-        <sub style="color:gray;">1v1 검투사 로그라이크 · 자가학습 AI · 텀블벅 120% 후원 성공</sub><br/><br/>
-        <img src="https://img.shields.io/badge/UE5.5-black?style=flat-square&logo=unrealengine" height="20"> 
-        <img src="https://img.shields.io/badge/STOVE%20Indie-FF5400?style=flat-square&logo=stove&logoColor=white" height="20">
-        <img src="https://img.shields.io/badge/Steam-005571?style=flat-square&logo=steam" height="20">
-        <img src="https://img.shields.io/badge/Switch_2-E60012?style=flat-square&logo=nintendo&logoColor=white" height="20">
-      </td>
-      <td width="15%" style="text-align:right; vertical-align:middle;">
-        <b>[ 상세 보기 ▾ ]</b>
-      </td>
-    </tr>
-  </table>
-</summary>
-<table width="100%">
+<table>
   <tr>
-    <td align="center">
-      <div align="center">
-        <a href="https://youtu.be/mr6uuFZbpm8?si=kCmxLBWuOJijrwrj">
-          <img src="https://github.com/user-attachments/assets/4fa07f6d-e675-4548-a0a7-760d5c325860" width="100%" alt="공식 시네마틱 영상" />
-          <sub>🎥 공식 시네마틱 영상 보러가기</sub>
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
+    <td width="160" align="center"><strong>TOOSIN : 투신</strong></td>
     <td>
-      <br/>
-      <b>About</b><br/>
-      적은 당신의 패턴을 기억하고 학습합니다. 기묘한 1대1 아레나에서 자가학습 AI와 목숨을 건 혈투를 벌이며, 매 승리마다 획득하는 무작위 특성 및 특전 조합 시너지를 극대화하여 자신만의 독창적인 콤보 액션 스타일을 구축하세요. <br/><br/>
-      <b>Tech Stack</b><br/>
-      <code>UE5.5 (C++)</code> <code>Behavior Tree (AI)</code> <code>Adaptive DDA AI</code> <code>Stove SDK</code> <code>Steam SDK</code> <code>Enhanced Input</code> <br/><br/>
-      <b>Progress</b><br/>
-      🎉 정식 출시 완료 (Stove Indie & Steam Release)<br/>
-      - 텀블벅 크라우드 펀딩 120% 성공적 종료 및 후원자 대상 스팀/스토브 CD-Key 배포 완료<br/>
-      - 플랫폼 고유 API를 적용하여 PlayFab 의존성 없이 스팀 & 스토브 리더보드/업적 시스템 독자적 연동 완료<br/>
-      - 라이브 서비스 제공 및 7월 초 대규모 클래스 시스템 확장 업데이트(Ver.0.0.90) 준비 중 <br/><br/>
-      <a href="https://github.com/rhwjdtjs/Toosin_Public"><img src="https://img.shields.io/badge/개발현황-Repo-181717?style=flat-square&logo=github&logoColor=white"></a>
-      <a href="https://store.onstove.com/ko/games/104376"><img src="https://img.shields.io/badge/STOVE-Store-FF5400?style=flat-square&logo=stove&logoColor=white"></a>
-      <a href="https://store.steampowered.com/app/4635530/TOOSIN/"><img src="https://img.shields.io/badge/Steam-Store-005571?style=flat-square&logo=steam&logoColor=white"></a>
-      <a href="https://discord.gg/3R9kHMtEg6"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white"></a>
+      A 1v1 arena roguelike where enemies analyze the player's attack, guard, dodge, and movement habits.<br/>
+      <strong>Version 1.0 Beta:</strong> early–mid August 2026 · <strong>Full release:</strong> late August 2026
     </td>
   </tr>
 </table>
-</details>
 
-<details>
-<summary>
-  <table width="100%" style="table-layout:fixed; border-top:1px solid #30363d;">
-    <tr>
-      <td width="30%" style="padding:10px 0 0 0; vertical-align:middle;">
-        <img src="https://github.com/user-attachments/assets/909f50ca-2091-4886-b2b0-2fa5ab8d3bb0" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="VeloCore Cover"/>
-      </td>
-      <td width="55%" style="padding:10px 15px 0 15px; vertical-align:middle;">
-        <b style="font-size:16px;">VeloCore</b><br/>
-        <sub style="color:gray;">하이퍼 TPS · 멀티플레이 · 기동전 · 최대 12인 플레이 지원 · Firebase</sub><br/>
-        <img src="https://img.shields.io/badge/UE5-black?style=flat-square&logo=unrealengine" height="20"> 
-      </td>
-      <td width="15%" style="padding:10px 0 0 0; text-align:right; vertical-align:middle;">
-        <b>[ 상세 보기 ▾ ]</b>
-      </td>
-    </tr>
-  </table>
-</summary>
-<table width="100%">
-  <tr>
-    <td align="center">
-      <a href="https://youtu.be/35-OI47LQC0"><img src="https://github.com/user-attachments/assets/ddb94d59-1a38-4fc9-b757-d888445da67f" width="100%" alt="VeloCore Main"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <br/>
-      <b>About</b><br/>
-      빠른 템포의 교전과 기동전을 중심으로 설계된 하이퍼 TPS. 와이어 액션과 이동 버프를 활용하라.<br/><br/>
-      <b>Tech Stack</b><br/>
-      <code>UE5.5</code> <code>C++</code> <code>Replication</code> <code>Steam OSS</code> <code>Firebase</code><br/><br/>
-      <a href="https://github.com/rhwjdtjs/UE5_Port"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white"></a>
-    </td>
-  </tr>
-</table>
-</details>
-<details>
-<summary>
-  <table width="100%" style="table-layout:fixed; border-top:1px solid #30363d;">
-    <tr>
-      <td width="30%" style="padding:10px 0 0 0; vertical-align:middle;">
-        <img src="https://github.com/user-attachments/assets/cda53593-f4ca-4d6f-accd-f88df81c3666" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="Living Lonely Cover"/>
-      </td>
-      <td width="55%" style="padding:10px 15px 0 15px; vertical-align:middle;">
-        <b style="font-size:16px;">Living Lonely</b><br/>
-        <sub style="color:gray;">오픈월드 생존 · 싱글플레이 · PlayFab</sub><br/>
-        <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity" height="20"> 
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp" height="20">
-      </td>
-      <td width="15%" style="padding:10px 0 0 0; text-align:right; vertical-align:middle;">
-        <b>[ 상세 보기 ▾ ]</b>
-      </td>
-    </tr>
-  </table>
-</summary>
-<table width="100%">
-  <tr>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=qtte7avW9yM"><img src="https://github.com/user-attachments/assets/dc8f0c5f-e9a6-4b98-a604-51ba81e3ab8e" width="100%" alt="Living Lonely Main"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <br/>
-      <b>About</b><br/>
-      시간이 지날수록 강해지는 적들에 맞서 최대한 오래 살아남아 랭킹을 기록하라.<br/><br/>
-      <b>Tech Stack</b><br/>
-      <code>Unity</code> <code>C#</code> <code>HDRP</code> <code>PlayFab</code><br/><br/>
-      <a href="https://github.com/rhwjdtjs/Unity_Living_Lonely"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white"></a>
-    </td>
-  </tr>
-</table>
-</details>
+<p align="center">
+  <a href="https://youtu.be/nkfCGh1Q-rE">
+    <img src="https://github.com/user-attachments/assets/a64041f1-75fa-4496-8f03-d41b7e126852" width="100%" alt="Watch the official TOOSIN trailer" />
+  </a>
+  <br/>
+  <sub>Click the image to watch the official trailer.</sub>
+</p>
 
-<details>
-<summary>
-  <table width="100%" style="table-layout:fixed; border-top:1px solid #30363d;">
-    <tr>
-      <td width="30%" style="padding:10px 0 0 0; vertical-align:middle;">
-        <img src="https://github.com/user-attachments/assets/6fbdebcd-f615-44ab-9eb9-92886cb34bbb" width="100%" style="display:block; object-fit:cover; border-radius:4px;" alt="Flight Fighter Cover"/>
-      </td>
-      <td width="55%" style="padding:10px 15px 0 15px; vertical-align:middle;">
-        <b style="font-size:16px;">Flight Fighter</b><br/>
-        <sub style="color:gray;">1vs1 대전 · 아케이드 · 전투기 · Photon</sub><br/>
-        <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity" height="20"> 
-        <img src="https://img.shields.io/badge/Photon-005571?style=flat-square&logo=photon" height="20">
-      </td>
-      <td width="15%" style="padding:10px 0 0 0; text-align:right; vertical-align:middle;">
-        <b>[ 상세 보기 ▾ ]</b>
-      </td>
-    </tr>
-  </table>
-</summary>
-<table width="100%">
+### What defines TOOSIN
+
+<table>
   <tr>
-    <td align="center">
-      <a href="https://youtu.be/Ya8GWlwHJAQ"><img src="https://github.com/user-attachments/assets/beef7983-a1b3-4214-ad95-d67fea59cee3" width="100%" alt="Flight Fighter Main"/></a>
+    <td width="33%" valign="top">
+      <h4>Adaptive opponents</h4>
+      Player-pattern analysis, adaptive DDA, and Behavior Trees drive deterministic, explainable combat decisions.
     </td>
-  </tr>
-  <tr>
-    <td>
-      <br/>
-      <b>About</b><br/>
-      친구와 함께 가볍게 즐기는 1대1 전투기 아케이드 게임.<br/><br/>
-      <b>Tech Stack</b><br/>
-      <code>Unity</code> <code>C#</code> <code>Photon Network</code><br/><br/>
-      <a href="https://github.com/rhwjdtjs/Unity_Flight_Fighter"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white"></a>
+    <td width="33%" valign="top">
+      <h4>Reactive melee combat</h4>
+      Class combos, guard, parry, just dodge, hit reactions, knockback, and controller feedback are tuned as one combat loop.
+    </td>
+    <td width="34%" valign="top">
+      <h4>Roguelike progression</h4>
+      Traits reset between lives while account growth, Play Points, and key stage rewards create lasting progression.
     </td>
   </tr>
 </table>
-</details>
+
+### Version 1.0 focus
+
+- Permanent stage rewards, Play Point progression, weapon enhancement, and class advancement
+- Omnidirectional locomotion, combat-AI variety, spacing, hit reactions, and long-session stability
+- Xbox-family controller support, input remapping, menu focus, clearer UI, and a rebuilt tutorial
+- Combat Power previews and Ranked Season 1
+
+[Read the public roadmap](https://github.com/rhwjdtjs/Toosin_Public/blob/main/ROADMAP_EN.md) ·
+[Browse the changelog](https://github.com/rhwjdtjs/Toosin_Public/blob/main/CHANGELOG_EN.md) ·
+[Get support](mailto:support@teamniriz.com)
+
+## Build stack
+
+<p>
+  <img src="https://img.shields.io/badge/Unreal_Engine_5.5-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine 5.5" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Behavior_Trees-2f3440?style=flat-square" alt="Behavior Trees" />
+  <img src="https://img.shields.io/badge/Adaptive_DDA-c28a42?style=flat-square" alt="Adaptive DDA" />
+  <img src="https://img.shields.io/badge/Enhanced_Input-5b6472?style=flat-square" alt="Enhanced Input" />
+  <img src="https://img.shields.io/badge/Steamworks-1b2838?style=flat-square&logo=steam&logoColor=white" alt="Steamworks" />
+  <img src="https://img.shields.io/badge/STOVE_SDK-ff5400?style=flat-square" alt="STOVE SDK" />
+</p>
+
+## Public GitHub activity
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=rhwjdtjs&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" width="100%" alt="Public GitHub statistics" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhwjdtjs&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="100%" alt="Most used languages in public repositories" />
+    </td>
+  </tr>
+</table>
+
+<sub>These cards summarize public repository activity and may not include private work.</sub>
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="210">
+      <a href="https://youtu.be/35-OI47LQC0"><img src="https://github.com/user-attachments/assets/909f50ca-2091-4886-b2b0-2fa5ab8d3bb0" width="200" alt="VeloCore" /></a>
+    </td>
+    <td valign="top">
+      <h3>VeloCore</h3>
+      High-mobility multiplayer TPS prototype built with Unreal Engine, C++, replication, Steam OSS, and Firebase.<br/>
+      <a href="https://github.com/rhwjdtjs/UE5_Port">Repository</a> · <a href="https://youtu.be/35-OI47LQC0">Gameplay</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="210">
+      <a href="https://www.youtube.com/watch?v=qtte7avW9yM"><img src="https://github.com/user-attachments/assets/cda53593-f4ca-4d6f-accd-f88df81c3666" width="200" alt="Living Lonely" /></a>
+    </td>
+    <td valign="top">
+      <h3>Living Lonely</h3>
+      Open-world survival project made with Unity, C#, HDRP, and PlayFab-backed progression.<br/>
+      <a href="https://github.com/rhwjdtjs/Living_Lonely">Repository</a> · <a href="https://www.youtube.com/watch?v=qtte7avW9yM">Gameplay</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="210">
+      <a href="https://youtu.be/Ya8GWlwHJAQ"><img src="https://github.com/user-attachments/assets/6fbdebcd-f615-44ab-9eb9-92886cb34bbb" width="200" alt="Flight Fighter" /></a>
+    </td>
+    <td valign="top">
+      <h3>Flight Fighter</h3>
+      A compact 1v1 arcade flight-combat prototype made with Unity, C#, and Photon Networking.<br/>
+      <a href="https://github.com/rhwjdtjs/Unity_Flight_Fighter">Repository</a> · <a href="https://youtu.be/Ya8GWlwHJAQ">Gameplay</a>
+    </td>
+  </tr>
+</table>
+
+## Contact
+
+- Website: [teamniriz.com](https://teamniriz.com/)
+- Support: [support@teamniriz.com](mailto:support@teamniriz.com)
+- Community: [TOOSIN Discord](https://discord.gg/EHMwJSjWpA)
+- Development notes: [JS DEVLOG](https://jeongseondevlog.tistory.com/)
+
+<div align="center">
+
+<sub>Designing enemies worth learning — and combat worth mastering.</sub>
+
+</div>

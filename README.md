@@ -1,139 +1,106 @@
-<div align="center">
-
-<img src="./assets/toosin-profile-header.png" width="100%" alt="TOOSIN : 투신 — TEAM NIRIZ" />
-
-### Independent Game Developer · Unreal Engine / C++
-
-I build combat systems, adaptive game AI, and player-facing tools at **TEAM NIRIZ**.
-
-[![Website](https://img.shields.io/badge/TEAM_NIRIZ-Official_Website-c69b57?style=for-the-badge&logo=googlechrome&logoColor=white)](https://teamniriz.com/)
-[![Steam](https://img.shields.io/badge/TOOSIN-Steam_Early_Access-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/4635530/TOOSIN/)
-[![Discord](https://img.shields.io/badge/Discord-Community-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EHMwJSjWpA)
-[![Public Docs](https://img.shields.io/badge/GitHub-TOOSIN_Public-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rhwjdtjs/Toosin_Public)
-
-</div>
-
-## Currently shipping
-
-<table>
-  <tr>
-    <td width="160" align="center"><strong>TOOSIN : 투신</strong></td>
-    <td>
-      A 1v1 arena roguelike where enemies analyze the player's attack, guard, dodge, and movement habits.<br/>
-      <strong>Version 1.0 Beta:</strong> early–mid August 2026 · <strong>Full release:</strong> late August 2026
-    </td>
-  </tr>
-</table>
+<h1 align="center">게임 클라이언트 개발자</h1>
 
 <p align="center">
-  <a href="https://youtu.be/nkfCGh1Q-rE">
-    <img src="https://github.com/user-attachments/assets/a64041f1-75fa-4496-8f03-d41b7e126852" width="100%" alt="Watch the official TOOSIN trailer" />
+  Unreal Engine 5와 C++을 중심으로 전투, 캐릭터, AI, UI·입력 시스템을 구현합니다.<br/>
+  1인 개발 게임의 Steam 출시·운영과 팀 프로젝트를 모두 경험했습니다.
+</p>
+
+<p align="center">
+  <code>Unreal Engine 5</code>
+  <code>C++</code>
+  <code>Unity</code>
+  <code>C#</code>
+  <code>Gameplay AI</code>
+  <code>Multiplayer</code>
+</p>
+
+## 핵심 역량
+
+| 분야 | 경험 |
+| --- | --- |
+| 게임플레이 | 캐릭터 상태, 근접 전투, 콤보, 피격·패링·회피, 무기 및 성장 시스템 |
+| AI | Behavior Tree·Blackboard 기반 전투 AI, 플레이 패턴 분석, 난이도 적응 |
+| UI·입력 | UMG, Enhanced Input, 키 리매핑, 키보드·마우스·Xbox 게임패드 대응 |
+| 데이터·플랫폼 | SaveGame, Steamworks, 빌드·배포·업데이트, 장시간 플레이 안정화 |
+| 멀티플레이 | Unreal Replication, Steam OSS, Photon, Firebase·PlayFab 연동 경험 |
+
+## 대표 프로젝트
+
+### TOOSIN : 투신
+
+<p align="center">
+  <a href="https://store.steampowered.com/app/4635530/TOOSIN/">
+    <img src="./assets/toosin-main.png" width="700" alt="TOOSIN : 투신" />
   </a>
-  <br/>
-  <sub>Click the image to watch the official trailer.</sub>
 </p>
 
-### What defines TOOSIN
+`Unreal Engine 5.5` `C++` `1인 개발` `Steam Early Access`
+
+1대1 근접 전투 로그라이크입니다. 전투·AI·성장·저장·UI·게임패드 시스템을 직접 구현하고 Steam 빌드 배포와 업데이트를 진행했습니다.
+
+- 공격·가드·패링·회피·콤보와 피격 반응을 포함한 전투 시스템
+- 플레이 패턴을 분석하는 Behavior Tree 전투 AI와 적응형 난이도
+- [Steam](https://store.steampowered.com/app/4635530/TOOSIN/) · [공개 개발 문서](https://github.com/rhwjdtjs/Toosin_Public) · [플레이 영상](https://youtu.be/nkfCGh1Q-rE)
+
+### 그 외 프로젝트
+
+| 프로젝트 | 기술 및 구현 | 링크 |
+| --- | --- | --- |
+| **VeloCore** | UE5·C++ 기반 고기동 멀티플레이 TPS, Replication·Steam OSS·Firebase | [GitHub](https://github.com/rhwjdtjs/Velocore) · [영상](https://youtu.be/35-OI47LQC0) |
+| **Living Lonely** | Unity·C# 기반 오픈월드 생존 게임, HDRP·PlayFab 성장 데이터 | [GitHub](https://github.com/rhwjdtjs/Living_Lonely) · [영상](https://www.youtube.com/watch?v=qtte7avW9yM) |
+| **Flight Fighter** | Unity·C# 기반 1대1 비행 전투, Photon 네트워크 | [GitHub](https://github.com/rhwjdtjs/Flight_Fighter) · [영상](https://youtu.be/Ya8GWlwHJAQ) |
+
+## Steam 프로필
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h4>Adaptive opponents</h4>
-      Player-pattern analysis, adaptive DDA, and Behavior Trees drive deterministic, explainable combat decisions.
+    <td width="92" align="center">
+      <a href="https://steamcommunity.com/profiles/76561199129005799">
+        <img src="./assets/steam-avatar.jpg" width="72" alt="DEV_Meshami Steam avatar" />
+      </a>
     </td>
-    <td width="33%" valign="top">
-      <h4>Reactive melee combat</h4>
-      Class combos, guard, parry, just dodge, hit reactions, knockback, and controller feedback are tuned as one combat loop.
-    </td>
-    <td width="34%" valign="top">
-      <h4>Roguelike progression</h4>
-      Traits reset between lives while account growth, Play Points, and key stage rewards create lasting progression.
+    <td valign="middle">
+      <strong>DEV_Meshami</strong><br/>
+      플레이한 게임 · <a href="https://steamcommunity.com/profiles/76561199129005799">Steam 프로필 보기</a>
     </td>
   </tr>
 </table>
 
-### Version 1.0 focus
-
-- Permanent stage rewards, Play Point progression, weapon enhancement, and class advancement
-- Omnidirectional locomotion, combat-AI variety, spacing, hit reactions, and long-session stability
-- Xbox-family controller support, input remapping, menu focus, clearer UI, and a rebuilt tutorial
-- Combat Power previews and Ranked Season 1
-
-[Read the public roadmap](https://github.com/rhwjdtjs/Toosin_Public/blob/main/ROADMAP_EN.md) ·
-[Browse the changelog](https://github.com/rhwjdtjs/Toosin_Public/blob/main/CHANGELOG_EN.md) ·
-[Get support](mailto:support@teamniriz.com)
-
-## Build stack
-
-<p>
-  <img src="https://img.shields.io/badge/Unreal_Engine_5.5-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine 5.5" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Behavior_Trees-2f3440?style=flat-square" alt="Behavior Trees" />
-  <img src="https://img.shields.io/badge/Adaptive_DDA-c28a42?style=flat-square" alt="Adaptive DDA" />
-  <img src="https://img.shields.io/badge/Enhanced_Input-5b6472?style=flat-square" alt="Enhanced Input" />
-  <img src="https://img.shields.io/badge/Steamworks-1b2838?style=flat-square&logo=steam&logoColor=white" alt="Steamworks" />
-  <img src="https://img.shields.io/badge/STOVE_SDK-ff5400?style=flat-square" alt="STOVE SDK" />
-</p>
-
-## Public GitHub activity
-
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=rhwjdtjs&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" width="100%" alt="Public GitHub statistics" />
+    <td width="50%" align="center" valign="top">
+      <a href="https://store.steampowered.com/app/4635530/TOOSIN/"><img src="./assets/steam-games/toosin.jpg" width="320" alt="TOOSIN : 투신" /></a><br/>
+      <strong>TOOSIN : 투신</strong>
     </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhwjdtjs&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="100%" alt="Most used languages in public repositories" />
+    <td width="50%" align="center" valign="top">
+      <a href="https://store.steampowered.com/app/2456740/inZOI/"><img src="./assets/steam-games/inzoi.jpg" width="320" alt="inZOI" /></a><br/>
+      <strong>inZOI</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://store.steampowered.com/app/949230/Cities_Skylines_II/"><img src="./assets/steam-games/cities-skylines-2.jpg" width="320" alt="Cities: Skylines II" /></a><br/>
+      <strong>Cities: Skylines II</strong>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/"><img src="./assets/steam-games/rainbow-six-siege.jpg" width="320" alt="Tom Clancy's Rainbow Six Siege" /></a><br/>
+      <strong>Tom Clancy's Rainbow Six Siege</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://store.steampowered.com/app/1716740/Starfield/"><img src="./assets/steam-games/starfield.jpg" width="320" alt="Starfield" /></a><br/>
+      <strong>Starfield</strong>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://store.steampowered.com/app/1517290/Battlefield_2042/"><img src="./assets/steam-games/battlefield-2042.jpg" width="320" alt="Battlefield 2042" /></a><br/>
+      <strong>Battlefield 2042</strong>
     </td>
   </tr>
 </table>
 
-<sub>These cards summarize public repository activity and may not include private work.</sub>
+## 링크
 
-## Selected work
-
-<table>
-  <tr>
-    <td width="210">
-      <a href="https://youtu.be/35-OI47LQC0"><img src="https://github.com/user-attachments/assets/909f50ca-2091-4886-b2b0-2fa5ab8d3bb0" width="200" alt="VeloCore" /></a>
-    </td>
-    <td valign="top">
-      <h3>VeloCore</h3>
-      High-mobility multiplayer TPS prototype built with Unreal Engine, C++, replication, Steam OSS, and Firebase.<br/>
-      <a href="https://github.com/rhwjdtjs/UE5_Port">Repository</a> · <a href="https://youtu.be/35-OI47LQC0">Gameplay</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="210">
-      <a href="https://www.youtube.com/watch?v=qtte7avW9yM"><img src="https://github.com/user-attachments/assets/cda53593-f4ca-4d6f-accd-f88df81c3666" width="200" alt="Living Lonely" /></a>
-    </td>
-    <td valign="top">
-      <h3>Living Lonely</h3>
-      Open-world survival project made with Unity, C#, HDRP, and PlayFab-backed progression.<br/>
-      <a href="https://github.com/rhwjdtjs/Living_Lonely">Repository</a> · <a href="https://www.youtube.com/watch?v=qtte7avW9yM">Gameplay</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="210">
-      <a href="https://youtu.be/Ya8GWlwHJAQ"><img src="https://github.com/user-attachments/assets/6fbdebcd-f615-44ab-9eb9-92886cb34bbb" width="200" alt="Flight Fighter" /></a>
-    </td>
-    <td valign="top">
-      <h3>Flight Fighter</h3>
-      A compact 1v1 arcade flight-combat prototype made with Unity, C#, and Photon Networking.<br/>
-      <a href="https://github.com/rhwjdtjs/Unity_Flight_Fighter">Repository</a> · <a href="https://youtu.be/Ya8GWlwHJAQ">Gameplay</a>
-    </td>
-  </tr>
-</table>
-
-## Contact
-
-- Website: [teamniriz.com](https://teamniriz.com/)
-- Support: [support@teamniriz.com](mailto:support@teamniriz.com)
-- Community: [TOOSIN Discord](https://discord.gg/EHMwJSjWpA)
-- Development notes: [JS DEVLOG](https://jeongseondevlog.tistory.com/)
-
-<div align="center">
-
-<sub>Designing enemies worth learning — and combat worth mastering.</sub>
-
-</div>
+- [GitHub](https://github.com/rhwjdtjs)
+- [개발 기록](https://jeongseondevlog.tistory.com/)
+- [TOOSIN 공개 개발 문서](https://github.com/rhwjdtjs/Toosin_Public)

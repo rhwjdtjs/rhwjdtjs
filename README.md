@@ -21,7 +21,7 @@
 | 게임플레이 | 캐릭터 상태, 근접 전투, 콤보, 피격·패링·회피, 무기 및 성장 시스템 |
 | AI | Behavior Tree·Blackboard 기반 전투 AI, 플레이 패턴 분석, 난이도 적응 |
 | UI·입력 | UMG, Enhanced Input, 키 리매핑, 키보드·마우스·Xbox 게임패드 대응 |
-| 데이터·플랫폼 | SaveGame, Steamworks, 빌드·배포·업데이트, 장시간 플레이 안정화 |
+| 데이터·플랫폼 | SaveGame, Steamworks, 빌드·배포·업데이트 |
 | 멀티플레이 | Unreal Replication, Steam OSS, Photon, Firebase·PlayFab 연동 경험 |
 
 ## 대표 프로젝트

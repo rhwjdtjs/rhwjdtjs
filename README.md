@@ -30,17 +30,27 @@
 
 <p align="center">
   <a href="https://store.steampowered.com/app/4635530/TOOSIN/">
-    <img src="./assets/toosin-main.png" width="700" alt="TOOSIN : 투신" />
+    <img src="./assets/toosin-1.0/hero.png" width="760" alt="TOOSIN : 투신 1.0 전투 장면" />
   </a>
 </p>
 
-`Unreal Engine 5.5` `C++` `1인 개발` `Steam Early Access`
+`Unreal Engine 5.5` `C++` `1인 개발` `PC` `정식 출시`
 
-1대1 근접 전투 로그라이크입니다. 전투·AI·성장·저장·UI·게임패드 시스템을 직접 구현하고 Steam 빌드 배포와 업데이트를 진행했습니다.
+플레이어의 전투 습관에 대응하는 적과 검투를 벌이고, 매 회차 새로운 빌드를 완성하는 아레나 액션 로그라이크입니다. 2026년 2월 개발을 시작해 STOVE와 Steam 앞서 해보기를 거쳐 **2026년 8월 13일 Ver.1.0을 정식 출시**했습니다.
 
-- 공격·가드·패링·회피·콤보와 피격 반응을 포함한 전투 시스템
-- 플레이 패턴을 분석하는 Behavior Tree 전투 AI와 적응형 난이도
-- [Steam](https://store.steampowered.com/app/4635530/TOOSIN/) · [공개 개발 문서](https://github.com/rhwjdtjs/Toosin_Public) · [플레이 영상](https://youtu.be/nkfCGh1Q-rE)
+- 공격·가드·패링·회피·콤보, 무기 교체와 방향별 피격 반응을 포함한 근접 전투
+- 플레이 패턴을 분석해 행동 가중치와 난이도를 조정하는 적응형 AI·DDA
+- 세 가지 플레이 클래스와 특전·특성·장비·보상으로 이어지는 성장 구조
+- Season 1 등급전과 플랫폼 리더보드, 최대 1대5로 확장되는 무한 모드
+- 한국어를 포함한 6개 언어, 키보드·마우스와 게임패드, Steam·STOVE 지원
+- [Steam](https://store.steampowered.com/app/4635530/TOOSIN/) · [공개 개발 문서](https://github.com/rhwjdtjs/Toosin_Public) · [1.0 트레일러](https://youtu.be/TrSGI-_k3KQ?si=Ldi4LljXUcPoyivW)
+
+<table>
+  <tr>
+    <td width="50%" align="center"><img src="./assets/toosin-1.0/combat-parry.png" width="100%" alt="TOOSIN 패링 전투" /></td>
+    <td width="50%" align="center"><img src="./assets/toosin-1.0/combat-close.png" width="100%" alt="TOOSIN 근접 전투" /></td>
+  </tr>
+</table>
 
 ### 그 외 프로젝트
 

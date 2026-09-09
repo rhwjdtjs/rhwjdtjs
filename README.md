@@ -1,116 +1,49 @@
-<h1 align="center">게임 클라이언트 개발자</h1>
+# 고정선 · Game Client Developer
 
-<p align="center">
-  Unreal Engine 5와 C++을 중심으로 전투, 캐릭터, AI, UI·입력 시스템을 구현합니다.<br/>
-  1인 개발 게임의 Steam 출시·운영과 팀 프로젝트를 모두 경험했습니다.
-</p>
+**C++ / Unreal Engine 5**를 중심으로 게임플레이를 구현합니다.  
+TEAM NIRIZ에서 게임의 개발·출시·라이브 운영과 팀 프로젝트의 리드 개발·PM을 맡고 있습니다.
 
-<p align="center">
-  <code>Unreal Engine 5</code>
-  <code>C++</code>
-  <code>Unity</code>
-  <code>C#</code>
-  <code>Gameplay AI</code>
-  <code>Multiplayer</code>
-</p>
+### [웹 포트폴리오 바로 보기 ↗](https://teamniriz.com/portfoliosecret)
 
-## 핵심 역량
+구현 과정, 코드 설명, 실행 자료는 웹 포트폴리오에서 더 편하게 확인할 수 있습니다.  
+[기술 블로그](https://jeongseondevlog.tistory.com/) · [TEAM NIRIZ](https://teamniriz.com/)
 
-| 분야 | 경험 |
-| --- | --- |
-| 게임플레이 | 캐릭터 상태, 근접 전투, 콤보, 피격·패링·회피, 무기 및 성장 시스템 |
-| AI | Behavior Tree·Blackboard 기반 전투 AI, 플레이 패턴 분석, 난이도 적응 |
-| UI·입력 | UMG, Enhanced Input, 키 리매핑, 키보드·마우스·Xbox 게임패드 대응 |
-| 데이터·플랫폼 | SaveGame, Steamworks, 빌드·배포·업데이트 |
-| 멀티플레이 | Unreal Replication, Steam OSS, Photon, Firebase·PlayFab 연동 경험 |
+---
 
 ## 대표 프로젝트
 
-### TOOSIN : 투신
+### TOOSIN · 투신
+**Steam·STOVE 정식 출시 / v1.3.1 업데이트 · Unreal Engine 5 / C++**
 
-<p align="center">
-  <a href="https://store.steampowered.com/app/4635530/TOOSIN/">
-    <img src="./assets/toosin-1.0/hero.png" width="760" alt="TOOSIN : 투신 1.0 전투 장면" />
-  </a>
-</p>
+검투사 액션 로그라이크. 기획·개발부터 출시 후 피드백 반영과 업데이트까지 주도했습니다.
 
-`Unreal Engine 5.5` `C++` `1인 개발` `PC` `정식 출시`
+- 행동 표본 기반 적응형 AI, 근접 전투와 패링, HISM 관중 렌더링
+- Steam 리더보드·비동기 플랫폼 연동, 시즌 2 등급전·진영전
 
-플레이어의 전투 습관에 대응하는 적과 검투를 벌이고, 매 회차 새로운 빌드를 완성하는 아레나 액션 로그라이크입니다. 2026년 2월 개발을 시작해 STOVE와 Steam 앞서 해보기를 거쳐 **2026년 8월 13일 Ver.1.0을 정식 출시**했습니다.
+[개발 문서](https://github.com/rhwjdtjs/Toosin_Public) · [Steam](https://store.steampowered.com/app/4635530/TOOSIN/) · [구현 상세](https://teamniriz.com/portfoliosecret#toosin)
 
-- 공격·가드·패링·회피·콤보, 무기 교체와 방향별 피격 반응을 포함한 근접 전투
-- 플레이 패턴을 분석해 행동 가중치와 난이도를 조정하는 적응형 AI·DDA
-- 세 가지 플레이 클래스와 특전·특성·장비·보상으로 이어지는 성장 구조
-- Season 1 등급전과 플랫폼 리더보드, 최대 1대5로 확장되는 무한 모드
-- 한국어를 포함한 6개 언어, 키보드·마우스와 게임패드, Steam·STOVE 지원
-- [Steam](https://store.steampowered.com/app/4635530/TOOSIN/) · [공개 개발 문서](https://github.com/rhwjdtjs/Toosin_Public) · [1.0 트레일러](https://youtu.be/TrSGI-_k3KQ?si=Ldi4LljXUcPoyivW)
+### SINGULARITY
+**3인 팀 / 리드 개발자·PM · Unreal Engine 5 / C++ · 개발 중**
 
-<table>
-  <tr>
-    <td width="50%" align="center"><img src="./assets/toosin-1.0/combat-parry.png" width="100%" alt="TOOSIN 패링 전투" /></td>
-    <td width="50%" align="center"><img src="./assets/toosin-1.0/combat-close.png" width="100%" alt="TOOSIN 근접 전투" /></td>
-  </tr>
-</table>
+1인칭 바디캠 생존 공포 게임. Player·Bodycam·Pistol·공용 Health 코어를 구현하고 팀 통합을 관리합니다.
 
-### 그 외 프로젝트
+- 입력 회전과 장비 관성을 분리한 카메라, 이벤트 기반 전투·체력 계약
+- 담당 범위·인수 기준 정의, 코드 검토와 통합 순서 관리
 
-| 프로젝트 | 기술 및 구현 | 링크 |
-| --- | --- | --- |
-| **VeloCore** | UE5·C++ 기반 고기동 멀티플레이 TPS, Replication·Steam OSS·Firebase | [GitHub](https://github.com/rhwjdtjs/Velocore) · [영상](https://youtu.be/35-OI47LQC0) |
-| **Living Lonely** | Unity·C# 기반 오픈월드 생존 게임, HDRP·PlayFab 성장 데이터 | [GitHub](https://github.com/rhwjdtjs/Living_Lonely) · [영상](https://www.youtube.com/watch?v=qtte7avW9yM) |
-| **Flight Fighter** | Unity·C# 기반 1대1 비행 전투, Photon 네트워크 | [GitHub](https://github.com/rhwjdtjs/Flight_Fighter) · [영상](https://youtu.be/Ya8GWlwHJAQ) |
+[프로젝트 저장소](https://github.com/rhwjdtjs/SINGULARITY-Portfolio) · [구현 상세](https://teamniriz.com/portfoliosecret#singularity)
 
-## Steam 프로필
+### VELOCORE
+**1인 개발 / 멀티플레이 TPS · Unreal Engine 5 / C++**
 
-<table>
-  <tr>
-    <td width="92" align="center">
-      <a href="https://steamcommunity.com/profiles/76561199129005799">
-        <img src="./assets/steam-avatar.jpg" width="72" alt="DEV_Meshami Steam avatar" />
-      </a>
-    </td>
-    <td valign="middle">
-      <strong>DEV_Meshami</strong><br/>
-      플레이한 게임 · <a href="https://steamcommunity.com/profiles/76561199129005799">Steam 프로필 보기</a>
-    </td>
-  </tr>
-</table>
+와이어 이동과 고기동 전투를 구현한 프로젝트. 서버 판정·상태 복제와 클라이언트 연출을 분리했습니다.
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://store.steampowered.com/app/4635530/TOOSIN/"><img src="./assets/steam-games/toosin.jpg" width="320" alt="TOOSIN : 투신" /></a><br/>
-      <strong>TOOSIN : 투신</strong>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://store.steampowered.com/app/2456740/inZOI/"><img src="./assets/steam-games/inzoi.jpg" width="320" alt="inZOI" /></a><br/>
-      <strong>inZOI</strong>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://store.steampowered.com/app/949230/Cities_Skylines_II/"><img src="./assets/steam-games/cities-skylines-2.jpg" width="320" alt="Cities: Skylines II" /></a><br/>
-      <strong>Cities: Skylines II</strong>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/"><img src="./assets/steam-games/rainbow-six-siege.jpg" width="320" alt="Tom Clancy's Rainbow Six Siege" /></a><br/>
-      <strong>Tom Clancy's Rainbow Six Siege</strong>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://store.steampowered.com/app/1716740/Starfield/"><img src="./assets/steam-games/starfield.jpg" width="320" alt="Starfield" /></a><br/>
-      <strong>Starfield</strong>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://store.steampowered.com/app/1517290/Battlefield_2042/"><img src="./assets/steam-games/battlefield-2042.jpg" width="320" alt="Battlefield 2042" /></a><br/>
-      <strong>Battlefield 2042</strong>
-    </td>
-  </tr>
-</table>
+[GitHub](https://github.com/rhwjdtjs/Velocore) · [플레이 영상](https://youtu.be/35-OI47LQC0) · [구현 상세](https://teamniriz.com/portfoliosecret#velocore)
 
-## 링크
+## 그 밖의 작업
 
-- [GitHub](https://github.com/rhwjdtjs)
-- [개발 기록](https://jeongseondevlog.tistory.com/)
-- [TOOSIN 공개 개발 문서](https://github.com/rhwjdtjs/Toosin_Public)
+- **[LIVING LONELY](https://github.com/rhwjdtjs/Living_Lonely)** — Unity / C# · 생존 게임, 인벤토리와 저장·복원
+- **[FLIGHT FIGHTER](https://github.com/rhwjdtjs/Flight_Fighter)** — Unity / C# · Photon 기반 1대1 비행 전투
+
+---
+
+`C++` `Unreal Engine 5` `Unity / C#` `Gameplay AI` `Replication` `Steamworks`

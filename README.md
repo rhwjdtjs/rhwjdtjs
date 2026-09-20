@@ -22,6 +22,22 @@ TEAM NIRIZ에서 게임의 개발·출시·라이브 운영과 팀 프로젝트�
 
 [개발 문서](https://github.com/rhwjdtjs/Toosin_Public) · [Steam](https://store.steampowered.com/app/4635530/TOOSIN/) · [구현 상세](https://teamniriz.com/portfoliosecret#toosin)
 
+### NONGJANG · 농장
+**TEAMNIRIZ 1인 개발 / 출시 예정 · Unreal Engine 5.7.4 / C++ · 개발 중**
+
+동물의 자율 생태와 사람과의 교감, 사냥·채집·정착을 연결하는 섬 생존 게임입니다.
+
+- C++ 상태·우선순위 AI, 욕구와 위험 기억을 반영하는 규칙 기반 적응 행동
+- 근거리 동물 Actor와 원거리 생태 기록의 전환, 관계·명령·월드 상태의 저장·복원
+- Codex를 활용한 바이브코딩으로 기반 구현을 진행하고, 이후 직접 완성·유지·확장할 수 있도록 코드·데이터·검수 기록을 정리
+
+![NONGJANG · 농장 목표 화면](assets/nongjang-target-gameplay.png)
+<sub>개발 중인 게임의 목표 화면을 시각화한 이미지</sub>
+
+현재 구현과 검증 범위, 실제 개발 화면은 아래 포트폴리오에 정리했습니다. 종별 행동 확장·최종 경관과 연출·멀티 및 출시 빌드 검수는 진행 중입니다.
+
+[구현 상세](https://teamniriz.com/portfoliosecret#nongjang) · [게임 소개](https://teamniriz.com/#nongjang)
+
 ### SINGULARITY
 **3인 팀 / 리드 개발자·PM · Unreal Engine 5 / C++ · 개발 중**
 

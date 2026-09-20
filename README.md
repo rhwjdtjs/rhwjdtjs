@@ -33,7 +33,7 @@ TEAM NIRIZ에서 게임의 개발·출시·라이브 운영과 팀 프로젝트�
 
 현재 구현과 검증 범위, 실제 개발 화면은 아래 포트폴리오에 정리했습니다. 종별 행동 확장·최종 경관과 연출·멀티 및 출시 빌드 검수는 진행 중입니다.
 
-[목표 일정](https://github.com/rhwjdtjs/NONGJANG_Public/blob/main/docs/release-plan.md): 전체 기능 공개 데모 2027년 말 → 텀블벅 2028년 초 → 얼리 액세스 2028년 하반기 → 정식 출시 2029년 하반기. 검수와 실제 개발 진도에 따라 조정하며 확정 출시일은 미정입니다.
+[목표 일정](https://github.com/rhwjdtjs/NONGJANG_Public/blob/main/docs/release-plan.md): 전체 기능 공개 데모 2027년 1~2월 → 얼리 액세스 2027년 3월 목표. 실제 개발·검수 결과에 따라 조정하며, 정식 출시일은 얼리 액세스 진행 후 산정합니다.
 
 [공개 개발 문서](https://github.com/rhwjdtjs/NONGJANG_Public) · [구현 상세](https://teamniriz.com/portfoliosecret#nongjang) · [게임 소개](https://teamniriz.com/#nongjang)
 

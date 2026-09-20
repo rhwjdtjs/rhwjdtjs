@@ -36,7 +36,7 @@ TEAM NIRIZ에서 게임의 개발·출시·라이브 운영과 팀 프로젝트�
 [공개 개발 문서](https://github.com/rhwjdtjs/NONGJANG_Public) · [구현 상세](https://teamniriz.com/portfoliosecret#nongjang) · [게임 소개](https://teamniriz.com/#nongjang)
 
 ### SINGULARITY
-**3인 팀 / 리드 개발자·PM · Unreal Engine 5 / C++ · 개발 중**
+**3인 팀 / 리드 개발자·PM · Unreal Engine 5.5.4 / C++ · 개발 중**
 
 1인칭 바디캠 생존 공포 게임. Player·Bodycam·Pistol·공용 Health 코어를 구현하고 팀 통합을 관리합니다.
 
@@ -46,7 +46,7 @@ TEAM NIRIZ에서 게임의 개발·출시·라이브 운영과 팀 프로젝트�
 [프로젝트 저장소](https://github.com/rhwjdtjs/SINGULARITY-Portfolio) · [구현 상세](https://teamniriz.com/portfoliosecret#singularity)
 
 ### VELOCORE
-**1인 개발 / 멀티플레이 TPS · Unreal Engine 5 / C++**
+**1인 개발 / 멀티플레이 TPS · Unreal Engine 5.4 / C++**
 
 와이어 이동과 고기동 전투를 구현한 프로젝트. 서버 판정·상태 복제와 클라이언트 연출을 분리했습니다.
 

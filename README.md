@@ -2,7 +2,7 @@
 
 Unreal Engine 5와 C++을 중심으로 게임플레이를 개발합니다. 개인 개발팀 TEAM NIRIZ에서 게임을 만들고 출시 후 수정과 업데이트를 이어가고 있습니다.
 
-[웹 포트폴리오](https://teamniriz.com/portfoliosecret) · [개발 블로그](https://jeongseondevlog.tistory.com/) · [TEAM NIRIZ](https://teamniriz.com/)
+ [개발 블로그](https://jeongseondevlog.tistory.com/)
 
 ## 주요 프로젝트
 
